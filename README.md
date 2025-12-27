@@ -1,77 +1,160 @@
-# Hi, I’m Sonu Thomas 👋
+🚀 Sonu Thomas
+Software Engineer · AI & Data Science · Agentic Systems Builder
 
-## Software Engineer | AI & Data Science | Web Developer
+Engineering intelligent systems that transform how enterprises operate.
 
-I am a Software Engineer with hands-on experience in enterprise change management, full-stack web development, and AI-driven automation. I currently work at **HCLTech** and am pursuing **BSc (Hons) in Data Science & Artificial Intelligence** from **IIT Guwahati**.
+🧬 Who I Am
 
-I also run a digital solutions startup, **QubiQode**, focused on building scalable websites, AI-enabled tools, and modern digital experiences.
+I’m a Software Engineer and AI practitioner with hands-on experience in enterprise change management, automation, and full-stack development.
+I currently work at HCLTech, while pursuing a BSc (Hons) in Data Science & Artificial Intelligence from IIT Guwahati.
 
----
+Alongside my corporate role, I founded QubiQode, where I design and build modern digital platforms, AI-enabled tools, and automation solutions that bridge business needs with emerging technology.
 
-## 👨‍💻 Current Roles
-- **Production Change Manager – HCLTech**
-- **Founder – QubiQode**
-- **BSc (Hons) Data Science & AI – IIT Guwahati (Ongoing)**
+🧠 Core Philosophy
+Automation over repetition
+Intelligence over manual processes
+Design for scale, not shortcuts
+AI as a co-worker, not just a tool
 
----
 
-## 🧠 Areas of Focus
-- AI & Generative AI applications
-- Agentic AI & automation workflows
-- Full-stack web development
-- SaaS & internal enterprise tools
-- Change management & IT operations automation
+I focus on systems thinking — building solutions that are:
 
----
+Explainable
 
-## 🛠️ Technical Skills
+Scalable
 
-**Languages**
-- JavaScript, Python, HTML, CSS
+Human-centered
 
-**Frameworks & Libraries**
-- React, Node.js, Express
-- Django (basic)
-- Tailwind CSS
+Enterprise-ready
 
-**AI & Data**
-- Prompt engineering
-- LLM-based assistants
-- RAG concepts
-- Data analysis basics
+🏗️ What I’m Actively Building
+⚙️ Agentic & GenAI Systems
 
-**Tools & Platforms**
-- GitHub, GitHub Actions
-- Vercel
-- ServiceNow (Change Management)
-- VS Code
+AI assistants for operational workflows
 
----
+Validation & decision-support agents
 
-## 🚀 Notable Work
-- AI-powered Change Management Assistant
-- Enterprise automation PoCs for IT Ops
-- Multiple production websites & SaaS-style platforms
-- SEO-optimized business websites for healthcare & education
+Prompt-driven enterprise automation
 
----
+Agent-based orchestration concepts
 
-## 📌 What I’m Building Now
-- Small AI projects deployable on **Vercel**
-- Recruiter-friendly AI demos
-- Agent-based automation concepts
-- Open-source learning projects
+🌐 Modern Web & SaaS
 
----
+Full-stack applications (frontend-first UX)
 
-## 📫 Connect With Me
-- 🌐 Website: https://www.sonuthomas.online
-- 💼 LinkedIn: https://www.linkedin.com/in/sonu-thomas
-- 📧 Email: sonu.thomas@hcltech.com
+Vercel-deployable micro-products
 
----
+SEO-optimized business platforms
 
-> “Transforming complex workflows into intelligent, scalable systems.”
->
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonu-Thomas-001&show_icons=true&theme=default)
+SaaS-style dashboards & tools
 
+🏢 Enterprise Automation
+
+Change Management assistants
+
+IT Ops workflow intelligence
+
+Knowledge retrieval & SOP reasoning
+
+Process optimization using AI
+
+🧰 Technical Arsenal
+🧑‍💻 Languages
+
+JavaScript
+
+Python
+
+HTML / CSS
+
+⚛️ Frameworks & Libraries
+
+React
+
+Node.js / Express
+
+Django (foundational)
+
+Tailwind CSS
+
+🤖 AI & Data
+
+Prompt engineering
+
+LLM-based assistants
+
+RAG concepts & pipelines
+
+Agentic workflows (design-level)
+
+Data analysis fundamentals
+
+☁️ Platforms & Tools
+
+GitHub / GitHub Actions
+
+Vercel
+
+ServiceNow (Change Management)
+
+VS Code
+
+🚀 Flagship Work & Highlights
+
+AI-powered Change Management Assistant
+→ Reduces repetitive queries, validates inputs, and guides users intelligently
+
+Enterprise Automation PoCs
+→ Designed for IT Ops and production environments
+
+Production Websites & SaaS Platforms
+→ Healthcare, education, business branding, and internal tools
+
+SEO-first Digital Products
+→ Performance, visibility, and UX combined
+
+🧪 Engineering Approach
+graph LR
+A[Problem Discovery] --> B[Process Analysis]
+B --> C[AI / System Design]
+C --> D[Prototype]
+D --> E[Validation]
+E --> F[Scalable Implementation]
+
+
+I design before I code.
+I validate before I automate.
+
+🛰️ What I’m Exploring Next
+
+Autonomous agent collaboration
+
+AI-driven decision validation
+
+Context-aware enterprise assistants
+
+Multi-agent workflows
+
+Applied GenAI in IT Operations
+
+🌍 Connect With Me
+
+🌐 Portfolio: https://www.sonuthomas.online
+
+🏢 Company: https://www.qubiqode.tech
+
+💼 LinkedIn: https://www.linkedin.com/in/sonu-thomas
+
+📧 Email: sonu.thomas@hcltech.com
+
+📊 GitHub at a Glance
+
+
+
+
+🧭 Final Note
+
+I don’t just build applications.
+I design intelligent systems that evolve with the business.
+
+If you’re exploring AI, automation, or scalable digital systems, feel free to connect
