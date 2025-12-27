@@ -1,160 +1,126 @@
-🚀 Sonu Thomas
-Software Engineer · AI & Data Science · Agentic Systems Builder
+<div align="center">
 
-Engineering intelligent systems that transform how enterprises operate.
+# ⚡ SYSTEM ARCHITECT & AI ENGINEER
 
-🧬 Who I Am
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33E6F2&center=true&vCenter=true&width=500&lines=Enterprise+Systems;AI-Driven+Automation;Scalable+Digital+Platforms;System+over+Feature" alt="Typing SVG" />
+</a>
 
-I’m a Software Engineer and AI practitioner with hands-on experience in enterprise change management, automation, and full-stack development.
-I currently work at HCLTech, while pursuing a BSc (Hons) in Data Science & Artificial Intelligence from IIT Guwahati.
+<p align="center">
+  <b>Blending corporate discipline, academic depth, and startup execution.</b><br>
+  <i>I design intelligent, scalable solutions that improve complex processes rather than replacing them blindly.</i>
+</p>
 
-Alongside my corporate role, I founded QubiQode, where I design and build modern digital platforms, AI-enabled tools, and automation solutions that bridge business needs with emerging technology.
+<p align="center">
+  <a href="#-tech-stack"><b>Tech Stack</b></a> •
+  <a href="#-engineering-philosophy"><b>Philosophy</b></a> •
+  <a href="#-current-deployments"><b>Current Work</b></a> •
+  <a href="#-connect"><b>Connect</b></a>
+</p>
 
-🧠 Core Philosophy
-Automation over repetition
-Intelligence over manual processes
-Design for scale, not shortcuts
-AI as a co-worker, not just a tool
+<br/>
 
+</div>
 
-I focus on systems thinking — building solutions that are:
+---
 
-Explainable
+### 📡 Current Deployments
 
-Scalable
+<div align="center">
 
-Human-centered
+| **Production Change Manager** | **Founder & Lead Eng.** | **BSc Data Science & AI** |
+| :---: | :---: | :---: |
+| **@HCLTech** | **@QubiQode** | **@IIT Guwahati** |
+| Enterprise IT Ops & Governance | SaaS, AI Tools & Automation | Academic Research & Theory |
 
-Enterprise-ready
+</div>
 
-🏗️ What I’m Actively Building
-⚙️ Agentic & GenAI Systems
+---
 
-AI assistants for operational workflows
+### 🛠 Tech Stack & Arsenal
 
-Validation & decision-support agents
+<div align="center">
 
-Prompt-driven enterprise automation
+#### **Core Languages & Runtime**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-Agent-based orchestration concepts
+#### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-🌐 Modern Web & SaaS
+#### **AI & Intelligence**
+![LLMs](https://img.shields.io/badge/LLM_Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Full-stack applications (frontend-first UX)
+#### **Ops & Platforms**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 
-Vercel-deployable micro-products
+</div>
 
-SEO-optimized business platforms
+---
 
-SaaS-style dashboards & tools
+### 🧬 Engineering Philosophy
 
-🏢 Enterprise Automation
+> "I view AI not as a novelty, but as a system-level capability that must integrate cleanly with processes, validation rules, and human decision-making."
 
-Change Management assistants
+I approach engineering with a **System-First Mindset**. Before coding, I focus on identifying failure points, edge cases, and auditable workflows.
 
-IT Ops workflow intelligence
+<div align="center">
 
-Knowledge retrieval & SOP reasoning
+| **Prioritizing** | **Over** |
+| :--- | :--- |
+| 🛡️ **Guardrails** | Blind Automation |
+| 🔮 **Predictability** | Experimentation in Prod |
+| 🧩 **Explainability** | Black-box Behavior |
+| 🌿 **Sustainability** | Short-term Optimization |
 
-Process optimization using AI
+</div>
 
-🧰 Technical Arsenal
-🧑‍💻 Languages
+---
 
-JavaScript
+### 🔭 The Mission: Intelligent Automation
 
-Python
+My work sits at the intersection of **Enterprise Systems** and **AI-Assisted Automation**. I am actively exploring Agentic AI and multi-agent coordination models to solve real-world operational bottlenecks.
 
-HTML / CSS
+#### 01. Enterprise & Operational Automation
+* Designing AI assistants that guide users through structured processes.
+* Validating inputs against templates, policies, and constraints.
+* Focusing on decision quality, consistency, and operational confidence.
 
-⚛️ Frameworks & Libraries
+#### 02. AI & Intelligent Systems
+* **Applied AI:** Moving beyond academic experimentation to prompt-driven systems.
+* **Agentic Workflows:** Orchestrating specialized components for validation and reasoning.
+* **RAG:** Retrieval-based knowledge access for context-aware assistance.
 
-React
-
-Node.js / Express
-
-Django (foundational)
-
-Tailwind CSS
-
-🤖 AI & Data
-
-Prompt engineering
-
-LLM-based assistants
-
-RAG concepts & pipelines
-
-Agentic workflows (design-level)
-
-Data analysis fundamentals
-
-☁️ Platforms & Tools
-
-GitHub / GitHub Actions
-
-Vercel
-
-ServiceNow (Change Management)
-
-VS Code
-
-🚀 Flagship Work & Highlights
-
-AI-powered Change Management Assistant
-→ Reduces repetitive queries, validates inputs, and guides users intelligently
-
-Enterprise Automation PoCs
-→ Designed for IT Ops and production environments
-
-Production Websites & SaaS Platforms
-→ Healthcare, education, business branding, and internal tools
-
-SEO-first Digital Products
-→ Performance, visibility, and UX combined
-
-🧪 Engineering Approach
-graph LR
-A[Problem Discovery] --> B[Process Analysis]
-B --> C[AI / System Design]
-C --> D[Prototype]
-D --> E[Validation]
-E --> F[Scalable Implementation]
-
-
-I design before I code.
-I validate before I automate.
-
-🛰️ What I’m Exploring Next
-
-Autonomous agent collaboration
-
-AI-driven decision validation
-
-Context-aware enterprise assistants
-
-Multi-agent workflows
-
-Applied GenAI in IT Operations
-
-🌍 Connect With Me
-
-🌐 Portfolio: https://www.sonuthomas.online
-
-🏢 Company: https://www.qubiqode.tech
-
-💼 LinkedIn: https://www.linkedin.com/in/sonu-thomas
-
-📧 Email: sonu.thomas@hcltech.com
-
-📊 GitHub at a Glance
-
-
-
-
-🧭 Final Note
-
-I don’t just build applications.
-I design intelligent systems that evolve with the business.
-
-If you’re exploring AI, automation, or scalable digital systems, feel free to connect
+#### 03. Web & SaaS Engineering
+* Building modern frontend-driven architectures and SEO-optimized business websites.
+* Creating SaaS-style dashboards and admin tools with clear UI/UX.
+* Ensuring engineering quality is matched by usability and clarity.
+
+---
+
+### ⚡ Professional Identity
+
+```javascript
+const systemArchitect = {
+    role: "Software Engineer",
+    focus: ["AI-Driven Automation", "Enterprise Systems", "Scalable Platforms"],
+    education: "BSc Data Science & AI @ IIT Guwahati",
+    principles: [
+        "AI should enhance workflows, not complicate them",
+        "Automation must be explainable and reversible",
+        "Clarity is more valuable than cleverness"
+    ]
+};
+```
+<div align="center">
+
+
+Let's Build Scalable Systems
+LinkedIn • QubiQode • Email
