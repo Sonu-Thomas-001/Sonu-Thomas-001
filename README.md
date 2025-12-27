@@ -72,3 +72,6 @@ I also run a digital solutions startup, **QubiQode**, focused on building scalab
 ---
 
 > “Transforming complex workflows into intelligent, scalable systems.”
+>
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonu-Thomas-001&show_icons=true&theme=default)
+
