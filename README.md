@@ -155,15 +155,6 @@ const sonuThomas = {
 If you are building AI products where **architecture, reliability, and business impact** matter, let’s connect.
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sonu@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-1F2937?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sonu-Thomas-001"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sonu-Thomas-001/Sonu-Thomas-001/issues/new"><img src="https://img.shields.io/badge/Discuss-Open%20an%20Issue-0A66C2?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-## Optional Branding Upgrades
-
-- Use a custom banner with a dark, architectural grid + tagline: **"Designing AI Systems for Real Operations"**
-- Pin repositories in this order: **Flagship AI System → Enterprise Automation Tool → SaaS Product → Architecture/Infra Project**
-- Keep pinned repo READMEs consistent with this profile narrative (problem → architecture → impact)
-- Add one public case-study repo with diagrams, metrics, and post-deployment learnings
