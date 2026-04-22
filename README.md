@@ -1,126 +1,160 @@
 <div align="center">
 
-# ⚡ SYSTEM ARCHITECT & AI ENGINEER
+# Sonu Thomas — AI Engineer • System Architect • Enterprise Builder
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33E6F2&center=true&vCenter=true&width=500&lines=Enterprise+Systems;AI-Driven+Automation;Scalable+Digital+Platforms;System+over+Feature" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=33E6F2&center=true&vCenter=true&width=820&lines=Designing+AI+systems+for+real+operations;RAG+%7C+Agents+%7C+Automation+%7C+SaaS;Reliability%2C+governance%2C+and+system-level+thinking" alt="Typing SVG" />
 
-<p align="center">
-  <b>Blending corporate discipline, academic depth, and startup execution.</b><br>
-  <i>I design intelligent, scalable solutions that improve complex processes rather than replacing them blindly.</i>
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-System%20Architect-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Enterprise%20Automation-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Systems%20Over%20Features-7C3AED?style=flat-square" />
 </p>
 
-<p align="center">
-  <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-engineering-philosophy"><b>Philosophy</b></a> •
-  <a href="#-current-deployments"><b>Current Work</b></a> •
-  <a href="#-connect"><b>Connect</b></a>
-</p>
-
-<br/>
+<p><strong>I build production-oriented AI systems that are auditable, reliable, and aligned with enterprise constraints.</strong></p>
 
 </div>
 
 ---
 
-### 📡 Current Deployments
+## About / Identity
 
-<div align="center">
-
-| **Production Change Manager** | **Founder & Lead Eng.** | **BSc Data Science & AI** |
-| :---: | :---: | :---: |
-| **@HCLTech** | **@QubiQode** | **@IIT Guwahati** |
-| Enterprise IT Ops & Governance | SaaS, AI Tools & Automation | Academic Research & Theory |
-
-</div>
+I work at the intersection of **AI engineering**, **system architecture**, and **operational transformation**.
+My approach combines startup execution speed with enterprise-grade discipline: clear interfaces, controlled risk, and measurable outcomes.
 
 ---
 
-### 🛠 Tech Stack & Arsenal
+## Core Expertise
 
-<div align="center">
-
-#### **Core Languages & Runtime**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### **Frontend & Frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-#### **AI & Intelligence**
-![LLMs](https://img.shields.io/badge/LLM_Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Architecture-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### **Ops & Platforms**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-
-</div>
+| Domain | What I Deliver |
+|---|---|
+| **LLM Systems** | Prompt orchestration, RAG pipelines, tool-using agents, evaluation loops |
+| **Enterprise Automation** | Workflow modernization, policy-aware validation, human-in-the-loop controls |
+| **Platform Engineering** | SaaS-style architecture, API-first design, scalable service composition |
+| **Delivery Quality** | Traceability, testability, rollback paths, operational observability |
 
 ---
 
-### 🧬 Engineering Philosophy
+## What I Build
 
-> "I view AI not as a novelty, but as a system-level capability that must integrate cleanly with processes, validation rules, and human decision-making."
-
-I approach engineering with a **System-First Mindset**. Before coding, I focus on identifying failure points, edge cases, and auditable workflows.
-
-<div align="center">
-
-| **Prioritizing** | **Over** |
-| :--- | :--- |
-| 🛡️ **Guardrails** | Blind Automation |
-| 🔮 **Predictability** | Experimentation in Prod |
-| 🧩 **Explainability** | Black-box Behavior |
-| 🌿 **Sustainability** | Short-term Optimization |
-
-</div>
+- **AI Decision Assistants** for structured enterprise workflows
+- **RAG Systems** with grounded retrieval and confidence-aware response design
+- **Agent Workflows** for multi-step reasoning, task routing, and controlled execution
+- **Automation Platforms** that reduce manual operations without sacrificing governance
+- **SaaS Products** with clean UI/UX and maintainable full-stack foundations
 
 ---
 
-### 🔭 The Mission: Intelligent Automation
+## How I Think
 
-My work sits at the intersection of **Enterprise Systems** and **AI-Assisted Automation**. I am actively exploring Agentic AI and multi-agent coordination models to solve real-world operational bottlenecks.
-
-#### 01. Enterprise & Operational Automation
-* Designing AI assistants that guide users through structured processes.
-* Validating inputs against templates, policies, and constraints.
-* Focusing on decision quality, consistency, and operational confidence.
-
-#### 02. AI & Intelligent Systems
-* **Applied AI:** Moving beyond academic experimentation to prompt-driven systems.
-* **Agentic Workflows:** Orchestrating specialized components for validation and reasoning.
-* **RAG:** Retrieval-based knowledge access for context-aware assistance.
-
-#### 03. Web & SaaS Engineering
-* Building modern frontend-driven architectures and SEO-optimized business websites.
-* Creating SaaS-style dashboards and admin tools with clear UI/UX.
-* Ensuring engineering quality is matched by usability and clarity.
+- Build **systems**, not isolated features
+- Prioritize **reliability over hype**
+- Treat validation as a **first-class layer**
+- Keep AI behavior **explainable and reversible**
+- Optimize for long-term maintainability, not short-term novelty
 
 ---
 
-### ⚡ Professional Identity
+## Featured Systems
 
-```javascript
-const systemArchitect = {
-    role: "Software Engineer",
-    focus: ["AI-Driven Automation", "Enterprise Systems", "Scalable Platforms"],
-    education: "BSc Data Science & AI @ IIT Guwahati",
-    principles: [
-        "AI should enhance workflows, not complicate them",
-        "Automation must be explainable and reversible",
-        "Clarity is more valuable than cleverness"
-    ]
+| System Type | Typical Outcome |
+|---|---|
+| **RAG Knowledge Pipelines** | Faster decision support with context-grounded responses |
+| **Agentic Orchestration Flows** | Reduced operational bottlenecks through modular automation |
+| **Enterprise SaaS Modules** | Clear process visibility, better control, stronger accountability |
+| **Automation Utilities** | Fewer repetitive tasks, improved consistency and throughput |
+
+---
+
+## Architecture Thinking
+
+I design from flow integrity first: **Input → Processing → Validation → Output → Feedback**.
+
+```text
+User
+  ↓
+API / Interface Layer
+  ↓
+Orchestrator (Rules + Routing)
+  ↓
+LLM / Tools / Retrieval
+  ↓
+Validation Layer (Policy, Schema, Guardrails)
+  ↓
+Response + Action
+  ↓
+Logging, Metrics, Continuous Improvement
+```
+
+This architecture ensures responses are not only intelligent, but also **governed, testable, and production-safe**.
+
+---
+
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript |
+| **AI / Data** | LLM APIs, RAG patterns, embeddings, evaluation workflows |
+| **Backend / Services** | Node.js, Django, REST APIs, workflow orchestration |
+| **Frontend / UI** | React, Tailwind CSS |
+| **Ops / Delivery** | GitHub Actions, Vercel, CI/CD pipelines |
+| **Enterprise Context** | ServiceNow-aligned process and governance thinking |
+
+---
+
+## Current Focus
+
+- Agent reliability patterns for real-world business workflows
+- Evaluation-driven LLM development (quality, safety, consistency)
+- Enterprise-grade AI integration: policy constraints, traceability, and auditability
+- Human + AI operating models for high-confidence automation
+
+---
+
+## Metrics / Proof
+
+| Signal | Evidence |
+|---|---|
+| **Industry Execution** | Production Change Management in enterprise IT environments |
+| **Founder Experience** | Building AI and SaaS products through QubiQode |
+| **Academic Foundation** | BSc in Data Science & AI (IIT Guwahati) |
+| **Engineering Positioning** | AI Engineer with system architecture and enterprise delivery mindset |
+
+---
+
+## Code Identity
+
+```ts
+const sonuThomas = {
+  role: "AI Engineer & System Architect",
+  builds: ["RAG Systems", "Agent Workflows", "Enterprise Automation", "SaaS Platforms"],
+  principles: [
+    "Systems over features",
+    "Reliability over hype",
+    "Validation before automation",
+    "Clarity over complexity"
+  ],
+  mission: "Design intelligent systems that work in production, not just in demos."
 };
 ```
+
+---
+
+## GitHub Snapshot
+
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sonu-Thomas-001&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-Thomas-001&layout=compact&theme=transparent&hide_border=true" />
+</div>
 
+---
 
-Let's Build Scalable Systems
-LinkedIn • QubiQode • Email
+## Call To Action
+
+If you are building AI products where **architecture, reliability, and business impact** matter, let’s connect.
+
+<p>
+  <a href="https://github.com/Sonu-Thomas-001"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sonu-Thomas-001/Sonu-Thomas-001/issues/new"><img src="https://img.shields.io/badge/Discuss-Open%20an%20Issue-0A66C2?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
