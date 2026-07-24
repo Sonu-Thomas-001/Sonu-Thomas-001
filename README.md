@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <a href="https://github.com/Sonu-Thomas-001">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Centralized+AI+Agent+Infrastructure+for+53%2B+Teams+%26+553%2B+Engineers;Software+Engineer+(AI%2FML)+%40+HCLTech+%E2%80%A2+HCLTech+Brand+Ambassador;BSc+(Honours)+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Production+AI+Engineering+%E2%80%A2+LLM+Governance+%E2%80%A2+Cloud+AI;Software+Engineer+(AI%2FML)+%40+HCLTech+%E2%80%A2+HCLTech+Brand+Ambassador;BSc+(Honours)+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing SVG Animation" />
 </a>
 
 <br/><br/>
@@ -64,11 +64,11 @@
 
 ## 📖 Introduction & Bio
 
-> *"Production-grade Enterprise AI is not about toy prompt demos; it is about building scalable, secure, and auditable agent infrastructure that empowers hundreds of engineers to automate complex operational workflows safely."*
+> *"Production-grade Enterprise AI is not about toy prompt demos; it is about building scalable, secure, and auditable agent infrastructure that empowers engineering teams to automate complex operational workflows safely."*
 
 I am a **Software Engineer (AI/ML Specialist) at HCLTech**, **IIT Guwahati Scholar**, and **HCLTech Brand Ambassador** based in **Kannur, Kerala, India**. 
 
-My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Agent Systems**, and **AI Production Engineering**. At HCLTech, I work on large-scale enterprise AI initiatives within an ecosystem spanning **553+ project members across 53 teams**—designing centralized AI platforms that enable engineering teams to build, deploy, and monitor intelligent AI agents.
+My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Agent Systems**, and **AI Production Engineering**. At HCLTech, I work on large-scale enterprise AI initiatives—building resilient AI platforms, RAG systems, and autonomous digital workers that enable engineering teams to automate complex operational workflows safely.
 
 ### 🎭 Engineering Identity & Leadership
 * 🏢 **Software Engineer (AI/ML) @ HCLTech**: Designing enterprise-scale AI solutions, incident automation agents, and centralized developer platforms.
@@ -86,7 +86,7 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
     <td width="50%" valign="top">
       <h3>💼 Current Role</h3>
       <p><b>Software Engineer (AI/ML Specialist)</b> @ <a href="https://www.hcltech.com">HCLTech</a><br/>
-      Working on enterprise-scale AI platforms, multi-agent systems, and production engineering initiatives serving 53+ teams and 553+ project members.</p>
+      Working on enterprise-scale AI platforms, multi-agent systems, and production engineering initiatives.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Academic Background</h3>
@@ -214,7 +214,7 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 ## 🎨 World-Class Visualizations
 
-### 1. 🏗️ Centralized Enterprise AI Agent Platform Architecture (53 Teams / 553+ Engineers)
+### 1. 🏗️ Enterprise Multi-Agent AI Platform Architecture
 ```mermaid
 graph TD
     classDef platformStyle fill:#0F172A,stroke:#00F2FE,stroke-width:2px,color:#FFF;
@@ -222,7 +222,7 @@ graph TD
     classDef agentStyle fill:#311042,stroke:#A855F7,stroke-width:2px,color:#FFF;
     classDef cloudStyle fill:#064E3B,stroke:#10B981,stroke-width:2px,color:#FFF;
 
-    subgraph EnterpriseEcosystem ["553+ Project Members Across 53 Teams"]
+    subgraph EnterpriseEcosystem ["Enterprise Teams & Operational Systems"]
         TeamA["DevOps & Infra Teams"]
         TeamB["Application Engineering Teams"]
         TeamC["ITSM & Operations Teams"]
@@ -284,9 +284,8 @@ sequenceDiagram
 mindmap
   root((Sonu Thomas))
     HCLTech Enterprise AI
-      Centralized Agent Platform
-        53 Teams Integration
-        553+ Project Members
+      Enterprise Agent Platform
+        Cross-Functional Integration
         Standardized Agent SDKs
       ITSM Automation
         Incident Agents
@@ -370,14 +369,14 @@ gantt
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Centralized Enterprise AI Agent Platform</h3>
+      <h3>🏢 Enterprise AI Agent Platform & Governance</h3>
       <p>
-        <img src="https://img.shields.io/badge/Scale-53_Teams_%2F_553+_Members-00F2FE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scale-Enterprise_Grade-00F2FE?style=flat-square" />
         <img src="https://img.shields.io/badge/GCP-Vertex_AI-4285F4?style=flat-square" />
       </p>
       <p><b>Unified Infrastructure for Enterprise AI Agent Development</b></p>
       <ul>
-        <li>Architected a shared AI development platform enabling 53 teams to build custom agents on centralized infrastructure.</li>
+        <li>Architected a shared AI development platform enabling engineering teams to build, deploy, and monitor custom AI agents on centralized infrastructure.</li>
         <li>Standardized API gateways, guardrails, and telemetry for enterprise-wide deployment.</li>
         <li><b>Tech Stack</b>: Python, GCP Vertex AI, LangGraph, FastAPI, Docker, BigQuery.</li>
       </ul>
@@ -471,7 +470,7 @@ gantt
 2026+ ──► [Target Roadmap: Senior AI Engineer ➔ AI Solution Architect]
           └─ Designing scalable enterprise agent platforms & AI governance
 2023+ ──► [Software Engineer (AI/ML) @ HCLTech]
-          ├─ Centralized Enterprise AI Platform for 53 Teams / 553+ Engineers
+          ├─ Enterprise AI Platforms, Multi-Agent Systems & Operational RAG
           ├─ HCLTech Brand Ambassador & AI Club Core Team
           └─ Incident Management, Change Control & RAG Pipelines
 2022+ ──► [B.Sc. (Honours) Data Science & AI @ IIT Guwahati]
