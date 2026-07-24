@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 490 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="490" height="195" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="25" y="35" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="800" fill="#00F2FE" letter-spacing="1">
+    Sonu Thomas — Engineering Metrics
+  </text>
+
+  <!-- Divider line -->
+  <line x1="25" y1="48" x2="465" y2="48" stroke="#334155" stroke-width="1"/>
+
+  <!-- Metric 1: Total Contributions -->
+  <g transform="translate(25, 75)">
+    <circle cx="10" cy="-5" r="4" fill="#00F2FE">
+      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#E2E8F0">Total Contributions:</text>
+    <text x="440" y="0" text-anchor="end" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#00F2FE">500+ Commits &amp; PRs</text>
+  </g>
+
+  <!-- Metric 2: Primary Role -->
+  <g transform="translate(25, 105)">
+    <circle cx="10" cy="-5" r="4" fill="#7C3AED">
+      <animate attributeName="r" values="3;6;3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#E2E8F0">Primary Role:</text>
+    <text x="440" y="0" text-anchor="end" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#C084FC">Software Engineer (AI/ML)</text>
+  </g>
+
+  <!-- Metric 3: Academic Credential -->
+  <g transform="translate(25, 135)">
+    <circle cx="10" cy="-5" r="4" fill="#3B82F6">
+      <animate attributeName="r" values="3;6;3" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#E2E8F0">Education:</text>
+    <text x="440" y="0" text-anchor="end" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#3B82F6">BSc DS &amp; AI @ IIT Guwahati</text>
+  </g>
+
+  <!-- Metric 4: Employer -->
+  <g transform="translate(25, 165)">
+    <circle cx="10" cy="-5" r="4" fill="#10B981">
+      <animate attributeName="r" values="3;6;3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#E2E8F0">Organization:</text>
+    <text x="440" y="0" text-anchor="end" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#10B981">HCLTech</text>
+  </g>
+</svg>

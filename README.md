@@ -361,28 +361,20 @@ gantt
 ### GitHub Profile Overview
 
 <p align="center">
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sonu-Thomas-001&show_icons=true&theme=dark&hide_border=false&border_radius=10" height="170" alt="GitHub Overall Stats" />
-  </a>
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu-Thomas-001&layout=compact&theme=dark&hide_border=false&border_radius=10" height="170" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/github-stats.svg" width="49%" alt="GitHub Overall Stats" />
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/top-languages.svg" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/streak-stats.svg" width="49%" alt="GitHub Streak Stats" />
   <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://streak-stats.demolab.com/?user=Sonu-Thomas-001&theme=dark&background=0F172A&stroke=00F2FE&ring=00F2FE&fire=7C3AED&currStreakLabel=00F2FE" height="170" alt="GitHub Streak Stats" />
-  </a>
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Thomas-001&theme=react-dark&bg_color=0F172A&hide_border=false&border_radius=10&color=00F2FE&line=00F2FE&point=7C3AED" height="170" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Thomas-001&theme=react-dark&bg_color=0F172A&hide_border=false&border_radius=10&color=00F2FE&line=00F2FE&point=7C3AED" width="49%" alt="Activity Graph" />
   </a>
 </p>
 
 ### GitHub Achievements & Trophies
 <p align="center">
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sonu-Thomas-001&theme=darkhub&column=6" width="100%" alt="GitHub Profile Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/github-trophies.svg" width="100%" alt="GitHub Profile Trophies" />
 </p>
 
 ### Contribution Activity Snake

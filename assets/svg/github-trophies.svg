@@ -1,0 +1,51 @@
+<svg fill="none" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trphBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="trphBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9900" stroke-opacity="0.6"/>
+      <stop offset="50%" stop-color="#00F2FE" stroke-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7C3AED" stroke-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="110" rx="14" fill="url(#trphBg)" stroke="url(#trphBorder)" stroke-width="1.5"/>
+
+  <!-- Trophy 1 -->
+  <g transform="translate(30, 20)">
+    <rect width="215" height="70" rx="10" fill="#1E293B" stroke="#FF9900" stroke-width="1"/>
+    <text x="35" y="32" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#FF9900">MASTER COMMITTER</text>
+    <text x="35" y="50" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#94A3B8">High Velocity Engine</text>
+  </g>
+
+  <!-- Trophy 2 -->
+  <g transform="translate(265, 20)">
+    <rect width="215" height="70" rx="10" fill="#1E293B" stroke="#00F2FE" stroke-width="1"/>
+    <text x="35" y="32" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#00F2FE">AI SYSTEMS SCHOLAR</text>
+    <text x="35" y="50" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#94A3B8">IIT Guwahati Honors</text>
+  </g>
+
+  <!-- Trophy 3 -->
+  <g transform="translate(500, 20)">
+    <rect width="215" height="70" rx="10" fill="#1E293B" stroke="#7C3AED" stroke-width="1"/>
+    <text x="35" y="32" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#C084FC">BRAND AMBASSADOR</text>
+    <text x="35" y="50" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#94A3B8">HCLTech Leadership</text>
+  </g>
+
+  <!-- Trophy 4 -->
+  <g transform="translate(735, 20)">
+    <rect width="215" height="70" rx="10" fill="#1E293B" stroke="#4285F4" stroke-width="1"/>
+    <text x="35" y="32" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#4285F4">CLOUD CERTIFIED</text>
+    <text x="35" y="50" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#94A3B8">GCP ACE &amp; CDL</text>
+  </g>
+
+  <!-- Trophy 5 -->
+  <g transform="translate(970, 20)">
+    <rect width="200" height="70" rx="10" fill="#1E293B" stroke="#10B981" stroke-width="1"/>
+    <text x="30" y="32" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#10B981">AWS ARCHITECT</text>
+    <text x="30" y="50" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#94A3B8">3x Certified Specialist</text>
+  </g>
+</svg>
