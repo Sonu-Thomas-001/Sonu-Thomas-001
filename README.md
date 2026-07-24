@@ -360,27 +360,30 @@ gantt
 
 ### 📈 GitHub Profile Overview
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sonu-Thomas-001&show_icons=true&theme=dark&hide_border=false&border_radius=10&line_height=26&icon_color=00F2FE&title_color=00F2FE&text_color=E2E8F0&bg_color=0F172A" width="100%" alt="GitHub Overall Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-Thomas-001&layout=compact&theme=dark&hide_border=false&border_radius=10&title_color=00F2FE&text_color=E2E8F0&bg_color=0F172A" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Thomas-001&theme=dark&hide_border=false&border_radius=10&background=0F172A&stroke=00F2FE&ring=00F2FE&fire=7C3AED&currStreakLabel=00F2FE" width="100%" alt="GitHub Streak Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Thomas-001&theme=react-dark&bg_color=0F172A&hide_border=false&border_radius=10&color=00F2FE&line=00F2FE&point=7C3AED" width="100%" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Sonu-Thomas-001">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sonu-Thomas-001&show_icons=true&theme=dark&hide_border=false&border_radius=10" height="170" alt="GitHub Overall Stats" />
+  </a>
+  <a href="https://github.com/Sonu-Thomas-001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu-Thomas-001&layout=compact&theme=dark&hide_border=false&border_radius=10" height="170" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sonu-Thomas-001">
+    <img src="https://streak-stats.demolab.com/?user=Sonu-Thomas-001&theme=dark&background=0F172A&stroke=00F2FE&ring=00F2FE&fire=7C3AED&currStreakLabel=00F2FE" height="170" alt="GitHub Streak Stats" />
+  </a>
+  <a href="https://github.com/Sonu-Thomas-001">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Thomas-001&theme=react-dark&bg_color=0F172A&hide_border=false&border_radius=10&color=00F2FE&line=00F2FE&point=7C3AED" height="170" alt="Activity Graph" />
+  </a>
+</p>
 
 ### 🏆 GitHub Achievements & Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Sonu-Thomas-001&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true" width="100%" alt="GitHub Profile Trophies" />
+<p align="center">
+  <a href="https://github.com/Sonu-Thomas-001">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sonu-Thomas-001&theme=darkhub&column=6" width="100%" alt="GitHub Profile Trophies" />
+  </a>
+</p>
 
 ### 🐍 Contribution Activity Snake (Animated)
 <picture>
