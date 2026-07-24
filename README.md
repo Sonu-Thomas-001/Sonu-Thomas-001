@@ -1,28 +1,28 @@
 <div align="center">
 
 <!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34,30,58,138&height=280&section=header&text=SONU%20THOMAS&fontSize=56&fontAlignY=36&animation=fadeIn&fontColor=00F2FE&desc=Senior%20AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Enterprise%20Builder&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34,30,58,138&height=280&section=header&text=SONU%20THOMAS&fontSize=56&fontAlignY=36&animation=fadeIn&fontColor=00F2FE&desc=Software%20Engineer%20%28AI/ML%29%20%E2%80%A2%20HCLTech%20%E2%80%A2%20BSc%20DS%20%26%20AI%20%40%20IIT%20Guwahati&descSize=19&descAlignY=62" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <a href="https://github.com/Sonu-Thomas-001">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Architecting+Enterprise+AI+Systems+%26+Multi-Agent+Workflows;Production+RAG+%E2%80%A2+LLM+Governance+%E2%80%A2+Cloud+AI+Infrastructure;BSc+Data+Science+%26+AI+%40+IIT+Guwahati+%E2%80%A2+Founder+%40+QubiQode;Bridging+Cutting-Edge+LLMs+With+Mission-Critical+Operations" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Centralized+AI+Agent+Infrastructure+for+53%2B+Teams+%26+553%2B+Engineers;Software+Engineer+(AI%2FML)+%40+HCLTech+%E2%80%A2+HCLTech+Brand+Ambassador;BSc+(Honours)+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing SVG Animation" />
 </a>
 
 <br/><br/>
 
 <!-- DYNAMIC BADGES & COUNTERS -->
 <p align="center">
+  <a href="https://linkedin.com/in/sonu-thomas">
+    <img src="https://img.shields.io/badge/LINKEDIN-6%2C000%2B_FOLLOWERS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
+  </a>
   <a href="https://github.com/Sonu-Thomas-001">
+    <img src="https://img.shields.io/badge/EMPLOYER-HCLTech-00569B?style=for-the-badge&logo=hcl&logoColor=white" alt="HCLTech" />
+  </a>
+  <a href="https://iitg.ac.in">
+    <img src="https://img.shields.io/badge/IIT_Guwahati-BSc_DS_%26_AI-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="IIT Guwahati" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Sonu-Thomas-001&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=Sonu-Thomas-001&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Sonu-Thomas-001?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sonu-Thomas-001?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Sonu-Thomas-001?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Sonu-Thomas-001?style=for-the-badge&color=2563EB&label=TOTAL+STARS&logo=github" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_AGENTIC_AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white" alt="Status Badge" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Sonu-Thomas-001/Sonu-Thomas-001/issues/new">
-    <img src="https://img.shields.io/badge/Schedule_Consultation-7C3AED?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule" />
+    <img src="https://img.shields.io/badge/Connect_With_Me-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Connect" />
   </a>
 </p>
 
@@ -64,59 +64,62 @@
 
 ## 📖 Introduction & Bio
 
-> *"Complex intelligent systems are not built by stringing together LLM prompts; they are engineered through deterministic guardrails, structured memory, multi-agent consensus, and strict enterprise auditability."*
+> *"Production-grade Enterprise AI is not about toy prompt demos; it is about building scalable, secure, and auditable agent infrastructure that empowers hundreds of engineers to automate complex operational workflows safely."*
 
-I am a **Senior AI Engineer**, **Systems Architect**, and **Enterprise Builder** operating at the intersection of production machine intelligence and mission-critical cloud infrastructure. 
+I am a **Software Engineer (AI/ML Specialist) at HCLTech**, **IIT Guwahati Scholar**, and **HCLTech Brand Ambassador** based in **Kannur, Kerala, India**. 
 
-As a **BSc Data Science & AI scholar from IIT Guwahati** and the founder of **QubiQode**, I combine high-velocity startup execution with enterprise-grade discipline—designing auditable, high-confidence agentic systems that run seamlessly in real-world environments.
+My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Agent Systems**, and **AI Production Engineering**. At HCLTech, I work on large-scale enterprise AI initiatives within an ecosystem spanning **553+ project members across 53 teams**—designing centralized AI platforms that enable engineering teams to build, deploy, and monitor intelligent AI agents.
 
-### 🎭 Multi-Faceted Engineering Identity
-* 🤖 **Senior AI Engineer**: Specializing in enterprise-scale Retrieval-Augmented Generation (RAG) and multi-agent coordination.
-* 🏛️ **Enterprise AI Developer**: Aligning AI workflows with ServiceNow ITSM, Incident, Problem, and Change Management paradigms.
-* ⚡ **Software & LLM Engineer**: Building production pipelines with fine-tuned models, structured outputs, and evaluation feedback loops.
-* 🛠️ **Agentic AI Builder**: Constructing autonomous digital co-workers using LangGraph, AutoGen, and stateful tool orchestration.
-* ☁️ **Cloud AI Enthusiast**: Deploying resilient microservices on Google Cloud Platform (Vertex AI) and AWS.
-* 🌐 **Modern Full-Stack Developer**: Designing responsive, glassmorphic Web UIs using React, Next.js, FastAPI, and TypeScript.
+### 🎭 Engineering Identity & Leadership
+* 🏢 **Software Engineer (AI/ML) @ HCLTech**: Designing enterprise-scale AI solutions, incident automation agents, and centralized developer platforms.
+* 🎓 **B.Sc. (Honours) Data Science & AI @ IIT Guwahati**: Rigorous academic foundation in ML theory, statistics, deep learning, and large-scale AI systems.
+* 🤖 **Agentic AI & Multi-Agent Specialist**: Orchestrating multi-agent collaboration with LangGraph, Google Vertex AI Agent Builder, and AWS Bedrock.
+* 🛡️ **Enterprise Operations & ITSM Alignment**: Integrating AI capabilities directly into Incident Management, Problem Resolution, Change Management, and CAB workflows.
+* 🌟 **HCLTech Brand Ambassador & AI Club Core Team**: Leading community events, technical workshops, and developer initiatives across HCLTech.
 
 ---
 
-## 👨‍💻 About Me & Identity Grid
+## 👨‍💻 About Me & Profile Grid
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>💼 Current Role</h3>
-      <p><b>Founder & Principal Architect</b> @ <a href="https://github.com/Sonu-Thomas-001">QubiQode</a><br/>
-      Leading the R&D and deployment of autonomous digital co-workers, RAG engines, and enterprise ITSM automation platforms.</p>
+      <p><b>Software Engineer (AI/ML Specialist)</b> @ <a href="https://www.hcltech.com">HCLTech</a><br/>
+      Working on enterprise-scale AI platforms, multi-agent systems, and production engineering initiatives serving 53+ teams and 553+ project members.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Academic Background</h3>
-      <p><b>BSc in Data Science & Artificial Intelligence</b><br/>
+      <p><b>B.Sc. (Honours) Data Science & Artificial Intelligence</b><br/>
       <i>Indian Institute of Technology (IIT) Guwahati</i><br/>
-      Core Focus: Machine Learning Theory, Neural Architectures, Statistical Modeling, and Algorithmic Optimization.</p>
+      Core: Machine Learning, Deep Learning, Large-Scale AI Systems, Data Engineering & Cloud Computing.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 Research Focus</h3>
-      <p>Multi-Agent Consensus Protocol Design, Formal Verification of LLM Outputs, Hybrid Vector Graph Retrieval (GraphRAG), and Low-Latency Guardrail Enforcers.</p>
+      <h3>📍 Location & Reach</h3>
+      <p>📍 <b>Kannur, Kerala, India</b><br/>
+      🌐 <b>LinkedIn:</b> 6,000+ Followers & Active Technical Writer<br/>
+      🏅 <b>HCLTech Brand Ambassador</b> & AI Club Core Team Member.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Mission</h3>
-      <p>To eliminate operational bottlenecks in enterprise workflows by building reliable, policy-compliant, and self-correcting AI systems that work in production—not just in demos.</p>
+      <h3>🚀 Career Vision</h3>
+      <p>To become a <b>Distinguished Enterprise AI Architect</b>, designing production-grade agentic platforms, self-healing operations, and secure digital workers for global organizations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔮 Vision</h3>
-      <p>Pioneering a future where human experts operate alongside autonomous digital co-workers with full auditability, zero data leakage, and total governance.</p>
+      <h3>🏆 Certifications Highlight</h3>
+      <p>• <b>Google Cloud Certified</b> Digital Leader (CDL) & Associate Cloud Engineer (ACE)<br/>
+      • <b>3x AWS Certified</b> Professional & AI Specialist<br/>
+      • <b>30+ Google Cloud Skill Badges</b> (Vertex AI Prompt Design, Data Science, MLOps)</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Core Engineering Values</h3>
-      <p>• <b>Systems Over Features</b><br/>
-      • <b>Reliability Over Hype</b><br/>
-      • <b>Validation Before Automation</b><br/>
-      • <b>Clarity Over Complexity</b></p>
+      <h3>🛡️ Core Engineering Mindset</h3>
+      <p>• <b>Production-Ready Over Demos</b><br/>
+      • <b>Security-First AI Design</b><br/>
+      • <b>Scalable Multi-Agent Infrastructure</b><br/>
+      • <b>Measurable Business Impact & Automation</b></p>
     </td>
   </tr>
 </table>
@@ -129,25 +132,22 @@ As a **BSc Data Science & AI scholar from IIT Guwahati** and the founder of **Qu
 +-----------------------------------------------------------------------------------+
 |                            SONU'S EXPERTISE MATRIX                                |
 +------------------------------------+----------------------------------------------+
-| DOMAIN                             | CORE CAPABILITIES & ENTERPRISE VALUE         |
+| DOMAIN                             | ENTERPRISE CAPABILITIES & IMPACT             |
 +------------------------------------+----------------------------------------------+
-| 🤖 Enterprise AI & Multi-Agent     | Stateful agent orchestration (LangGraph),    |
-|                                    | consensus protocols, human-in-the-loop flows |
+| 🤖 Enterprise AI & Multi-Agent     | Centralized agent platforms, multi-agent     |
+|                                    | consensus, Vertex AI Agent Builder, LangGraph |
 +------------------------------------+----------------------------------------------+
-| 📚 RAG & Knowledge Intelligence    | GraphRAG, hybrid vector/sparse search,       |
-|                                    | semantic reranking, grounded response loops  |
+| 📚 RAG & Knowledge Intelligence    | Vertex AI Search, ChromaDB, enterprise       |
+|                                    | document intelligence, hybrid vector search  |
 +------------------------------------+----------------------------------------------+
-| 🛡️ LLM Governance & Guardrails     | Schema validation, PII redaction, real-time  |
-|                                    | policy compliance, prompt injection defense  |
+| 🛡️ Enterprise ITSM Operations      | Automated Incident, Problem, RCA, Change     |
+|                                    | Control, and CAB Process AI Copilots         |
 +------------------------------------+----------------------------------------------+
-| ☁️ Cloud AI & Production MLOps     | GCP Vertex AI, AWS Bedrock, Dockerized       |
-|                                    | microservices, continuous eval pipelines     |
+| ☁️ Cloud AI & Production MLOps     | GCP (Vertex AI Studio, BigQuery, GCS),       |
+|                                    | AWS Bedrock, SageMaker, Docker, CI/CD        |
 +------------------------------------+----------------------------------------------+
-| 🏛️ Enterprise IT Governance       | ServiceNow ITSM alignment, Change Control,   |
-|                                    | Incident Triaging, Root-Cause Analysis (RCA) |
-+------------------------------------+----------------------------------------------+
-| ⚡ Modern Web & Full Stack         | Next.js 14, React, FastAPI, Node.js,         |
-|                                    | Tailwind CSS, glassmorphism UI/UX design     |
+| ⚡ Full Stack & Backend APIs       | Python, Java, FastAPI, Node.js, React,       |
+|                                    | Next.js, Tailwind CSS, Framer Motion         |
 +------------------------------------+----------------------------------------------+
 ```
 
@@ -156,12 +156,11 @@ As a **BSc Data Science & AI scholar from IIT Guwahati** and the founder of **Qu
 
 <br/>
 
-* **Enterprise AI & Multi-Agent Systems**: Autonomous agent routing, dynamic task decomposition, state persistence, memory consolidation, parallel tool execution.
-* **Generative AI & LLMs**: Fine-tuning (LoRA/QLoRA), RAG evaluation frameworks (Ragas, TruLens), structured prompt engineering, agentic function calling.
-* **Machine Learning & Deep Learning**: Natural Language Processing (NLP), sequence modeling, transformer architectures, PyTorch, TensorFlow, Scikit-Learn.
-* **Cloud AI & Platform Engineering**: Google Cloud Platform, AWS, Kubernetes orchestration, Docker containerization, CI/CD automation with GitHub Actions.
-* **ServiceNow & IT Operations**: Enterprise Change Management, Incident Management, Problem Resolution, audit trail logging, SOC2/ISO compliance readiness.
-* **Full-Stack Engineering**: RESTful & GraphQL API design, asynchronous Python (FastAPI/AsyncIO), TypeScript, responsive web interfaces, state management.
+* **Enterprise AI & Multi-Agent Systems**: Autonomous agent routing, dynamic task decomposition, multi-agent observability platforms, centralized enterprise agent SDKs.
+* **Large Language Models (LLM)**: Prompt engineering, RAG pipelines, long-context reasoning, tool calling, function calling, structured outputs, evaluation loops.
+* **Cloud AI Platforms**: Google Cloud Platform (Vertex AI Studio, Agent Builder, Search, BigQuery), AWS (Bedrock, SageMaker).
+* **Enterprise Operations & ITSM**: Incident Management, Problem Resolution, Root Cause Analysis (RCA), Change Management, Change Advisory Board (CAB) AI assistants.
+* **Programming Languages & Frameworks**: Python, Java, SQL, PL/SQL, JavaScript, TypeScript, HTML/CSS, C++, JDBC, LangChain, LangGraph, Flask, Node.js.
 
 </details>
 
@@ -169,47 +168,44 @@ As a **BSc Data Science & AI scholar from IIT Guwahati** and the founder of **Qu
 
 ## 💻 Tech Stack & Ecosystem
 
-### 🚀 Languages & Core Runtimes
+### 🚀 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,sql,html,css&perline=8" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,java,sql,js,ts,html,css,cpp&perline=8" alt="Languages" />
   </a>
 </p>
 
-### 🤖 AI, Machine Learning & Agent Frameworks
+### 🤖 AI, LLM & Agent Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge&logo=git&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_Agent_Builder-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### ⚡ Frameworks & Full-Stack Development
+### ⚡ Frontend & Backend Engineering
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,flask,tailwind,bootstrap&perline=8" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,bootstrap&perline=7" alt="Frameworks" />
   </a>
 </p>
 
-### ☁️ Cloud, MLOps & Infrastructure
+### ☁️ Cloud Platforms & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions,linux,terraform,vercel&perline=8" alt="Cloud & DevOps" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github,linux&perline=6" alt="Cloud & DevOps" />
   </a>
 </p>
 
-### 🗄️ Databases & Vector Stores
+### 🗄️ Databases & Data Stores
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=8" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite&perline=4" alt="Databases" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-047857?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_BigQuery-667EEA?style=for-the-badge&logo=googlebigquery&logoColor=white" />
 </p>
@@ -218,121 +214,110 @@ As a **BSc Data Science & AI scholar from IIT Guwahati** and the founder of **Qu
 
 ## 🎨 World-Class Visualizations
 
-### 1. 🏗️ Multi-Agent Enterprise RAG Architecture
+### 1. 🏗️ Centralized Enterprise AI Agent Platform Architecture (53 Teams / 553+ Engineers)
 ```mermaid
 graph TD
     %% Styling
-    classDef userStyle fill:#1E293B,stroke:#00F2FE,stroke-width:2px,color:#FFF;
-    classDef gatewayStyle fill:#0F172A,stroke:#3B82F6,stroke-width:2px,color:#FFF;
+    classDef platformStyle fill:#0F172A,stroke:#00F2FE,stroke-width:2px,color:#FFF;
+    classDef teamStyle fill:#1E293B,stroke:#3B82F6,stroke-width:2px,color:#FFF;
     classDef agentStyle fill:#311042,stroke:#A855F7,stroke-width:2px,color:#FFF;
-    classDef ragStyle fill:#064E3B,stroke:#10B981,stroke-width:2px,color:#FFF;
-    classDef guardStyle fill:#4C1D95,stroke:#F43F5E,stroke-width:2px,color:#FFF;
+    classDef cloudStyle fill:#064E3B,stroke:#10B981,stroke-width:2px,color:#FFF;
 
-    User[👤 Enterprise User / API Client] :::userStyle -->|Request + Auth Context| Gateway[🌐 API Gateway & Policy Router] :::gatewayStyle
-    
-    subgraph Guardrail & Governance Layer
-        Gateway --> PolicyCheck{🛡️ Real-Time Guardrails} :::guardStyle
-        PolicyCheck -->|Pass| AgentOrchestrator[🧠 LangGraph Multi-Agent Router] :::agentStyle
-        PolicyCheck -->|Violation| Blocked[🚫 Sanitized Error & Audit Log] :::guardStyle
+    subgraph Enterprise Ecosystem [553+ Project Members Across 53 Teams]
+        TeamA[👥 DevOps & Infra Teams] :::teamStyle
+        TeamB[👥 Application Engineering Teams] :::teamStyle
+        TeamC[👥 ITSM & Operations Teams] :::teamStyle
     end
 
-    subgraph Agentic Execution Cluster
-        AgentOrchestrator --> AgentA[🤖 Research & Retrieval Agent] :::agentStyle
-        AgentOrchestrator --> AgentB[⚖️ Code & Logic Synthesis Agent] :::agentStyle
-        AgentOrchestrator --> AgentC[🔍 Compliance Audit Agent] :::agentStyle
+    EnterpriseEcosystem -->|API Requests & Agent Specs| Gateway[🌐 Centralized AI Platform Gateway] :::platformStyle
+
+    subgraph Centralized AI Agent Platform Infrastructure
+        Gateway --> Auth[🛡️ Identity, Security & Guardrail Proxy] :::platformStyle
+        Auth --> AgentRouter[🧠 Multi-Agent Orchestrator & SDK] :::agentStyle
+
+        subgraph Specialized Agent Ecosystem
+            AgentRouter --> IncidentAgent[🤖 Autonomous Incident & RCA Agent] :::agentStyle
+            AgentRouter --> ChangeAgent[📋 Change Control & CAB Assistant Agent] :::agentStyle
+            AgentRouter --> SearchAgent[🔍 Enterprise RAG & Knowledge Agent] :::agentStyle
+            AgentRouter --> MonitorAgent[📈 Operations Monitoring Agent] :::agentStyle
+        end
+
+        subgraph Cloud AI & Enterprise Data Layer
+            IncidentAgent --> VertexAI[⚡ GCP Vertex AI Studio & Agent Builder] :::cloudStyle
+            ChangeAgent --> AWSBedrock[🟧 AWS Bedrock LLM Infrastructure] :::cloudStyle
+            SearchAgent --> VectorStore[(📚 Vertex AI Search & ChromaDB)] :::cloudStyle
+            MonitorAgent --> BigQuery[(📊 BigQuery & Oracle Enterprise Data)] :::cloudStyle
+        end
     end
 
-    subgraph RAG & Knowledge Engine
-        AgentA --> VectorDB[(⚡ Hybrid Qdrant / Pinecone Vector Store)] :::ragStyle
-        AgentA --> KnowledgeGraph[(🕸️ GraphRAG Structural Context)] :::ragStyle
-        VectorDB --> Reranker[📊 Cross-Encoder Reranker] :::ragStyle
-        KnowledgeGraph --> Reranker
-    end
-
-    Reranker -->|Grounded Context| LLMInference[🔮 Gemini 1.5 Pro / Claude 3.5 Sonnet] :::agentStyle
-    AgentB --> LLMInference
-    LLMInference --> OutputValidation{✅ Output Schema & Fact Enforcer} :::guardStyle
-    OutputValidation -->|Validated Response| User
-    OutputValidation -->|Telemetry & RCA| TelemetryDB[(📈 Enterprise Audit & Observability Log)] :::gatewayStyle
+    Cloud AI & Enterprise Data Layer --> Telemetry[📈 Real-Time AI Observability & Audit Log] :::platformStyle
+    Telemetry -->|Remediation & Insights| EnterpriseEcosystem
 ```
 
-### 2. ⚡ Enterprise AI Request Lifecycle & Sequence
+### 2. ⚡ Enterprise ITSM Incident & Root-Cause Analysis (RCA) Flow
 ```mermaid
 sequenceDiagram
     autonumber
-    actor Client as 👤 Enterprise User
-    participant Gateway as 🌐 API Gateway
-    participant Guard as 🛡️ Policy Enforcer
-    participant Router as 🧠 Agent Router
-    participant Retrieval as 📚 Hybrid RAG
-    participant LLM as 🔮 LLM Engine
-    participant Audit as 📊 Audit Log
+    actor System as 🖥️ Enterprise Monitoring
+    participant Gateway as 🌐 AI Agent Platform Gateway
+    participant IncidentAgent as 🤖 Incident Triaging Agent
+    participant RAG as 🔍 Vertex AI Search / RAG
+    participant RCAAgent as 🧠 RCA Agent
+    participant Engineer as 👤 HCLTech Engineer / CAB
 
-    Client->>Gateway: Submit Operational Query
-    Gateway->>Guard: Validate Authentication & PII Constraints
-    Guard-->>Gateway: Compliance Verification Passed
-    Gateway->>Router: Route Payload to Task Agent
-    Router->>Retrieval: Query Vector Store & Knowledge Graph
-    Retrieval-->>Router: Return Top-K Grounded Context Chunks
-    Router->>LLM: Generate Response (Context + Task Prompt)
-    LLM-->>Router: Structured Response Output
-    Router->>Guard: Verify Output Assertions & Guardrails
-    Guard-->>Client: Deliver Audited, Safe Response
-    Router->>Audit: Asynchronously Log Execution Metrics & Traces
+    System->>Gateway: Trigger Incident Telemetry Alert
+    Gateway->>IncidentAgent: Route Payload for Automated Classification
+    IncidentAgent->>RAG: Retrieve Past Incident Tickets & Documentation
+    RAG-->>IncidentAgent: Return Historical Knowledge Context
+    IncidentAgent->>RCAAgent: Initiate Root Cause Analysis Loop
+    RCAAgent->>RCAAgent: Synthesize Logs, Code Changes & Telemetry
+    RCAAgent-->>Engineer: Recommend Actionable Remediation & CAB Impact Report
+    Engineer-->>Gateway: Approve Automated Fix / Execution Logged
 ```
 
-### 3. 🧠 Sonu's AI Knowledge Ecosystem
+### 3. 🧠 Sonu's AI & Engineering Mindmap
 ```mermaid
 mindmap
   root((Sonu Thomas))
-    Enterprise AI
-      Multi-Agent Systems
-        LangGraph
-        AutoGen
-        Consensus Protocols
-      LLM Engineering
-        Prompt Orchestration
-        LoRA Fine-Tuning
-        Structured Outputs
-      Governance
-        ServiceNow ITSM
-        Audit Logging
-        Policy Guardrails
-    Data Science & AI
-      IIT Guwahati Scholar
-      Machine Learning
-        PyTorch
-        TensorFlow
-        NLP & Transformers
-      Knowledge Graphs
-        GraphRAG
-        Neo4j
-        Semantic Search
-    Full Stack & Cloud
-      Cloud Architecture
-        Google Cloud Platform
+    HCLTech Enterprise AI
+      Centralized Agent Platform
+        53 Teams Integration
+        553+ Project Members
+        Standardized Agent SDKs
+      ITSM Automation
+        Incident Agents
+        RCA Agents
+        CAB Process Chatbots
+    IIT Guwahati DS & AI
+      Academic Rigor
+      Machine Learning Theory
+      Deep Learning & NLP
+      Data Science & Cloud
+    Technical Ecosystem
+      Cloud AI
+        GCP Vertex AI
         AWS Bedrock
-        Kubernetes
-      Modern Web
-        Next.js 14
-        React
-        FastAPI
+        BigQuery
+      Languages & Stack
+        Python / Java / SQL
+        React / Next.js
+        FastAPI / Node.js
 ```
 
-### 4. 📅 Strategic Engineering Roadmap (2024 - 2026)
+### 4. 📅 Career & Engineering Progression Roadmap
 ```mermaid
 gantt
-    title Sonu Thomas — Technology & Career Evolution
+    title Sonu Thomas — Professional Career Progression
     dateFormat  YYYY-MM
-    section Academic Excellence
-    BSc DS & AI @ IIT Guwahati       :active, 2023-01, 2026-06
-    section Venture & Enterprise
-    QubiQode Founder & Lead Architect:active, 2023-08, 2026-12
-    Enterprise ITSM & AI Integration  :active, 2024-01, 2025-12
-    section Research R&D
-    Autonomous Multi-Agent Benchmarks:2024-06, 2025-06
-    GraphRAG Enterprise Frameworks   :2025-01, 2026-03
-    Zero-Downtime Agent Governance   :2025-06, 2026-12
+    section Academic Foundations
+    SSLC Full A+ (Little Kites IT Leader) :2019-01, 2020-05
+    Higher Secondary CS (97%)          :2020-06, 2022-05
+    BSc Data Science & AI @ IIT Guwahati:active, 2022-06, 2026-06
+    section HCLTech Engineering
+    Software Engineer (AI/ML Focus)    :active, 2023-06, 2025-06
+    Senior AI Engineer                 :2025-06, 2026-12
+    AI Solution Architect              :2026-12, 2028-06
+    Enterprise AI Architect            :2028-06, 2030-12
 ```
 
 ---
@@ -381,73 +366,69 @@ gantt
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 QubiQode Agentic Orchestrator</h3>
+      <h3>🏢 Centralized Enterprise AI Agent Platform</h3>
       <p>
-        <img src="https://img.shields.io/badge/LangGraph-Multi--Agent-00F2FE?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-Production-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scale-53_Teams_%2F_553+_Members-00F2FE?style=flat-square" />
+        <img src="https://img.shields.io/badge/GCP-Vertex_AI-4285F4?style=flat-square" />
       </p>
-      <p><b>Stateful Multi-Agent Framework for Enterprise Operations</b></p>
+      <p><b>Unified Infrastructure for Enterprise AI Agent Development</b></p>
       <ul>
-        <li>Designed a multi-agent orchestration engine supporting parallel tool invocation and state persistence.</li>
-        <li>Integrated human-in-the-loop approval gates for mission-critical enterprise actions.</li>
-        <li><b>Tech Stack</b>: Python, LangGraph, FastAPI, Qdrant, Docker, Redis.</li>
+        <li>Architected a shared AI development platform enabling 53 teams to build custom agents on centralized infrastructure.</li>
+        <li>Standardized API gateways, guardrails, and telemetry for enterprise-wide deployment.</li>
+        <li><b>Tech Stack</b>: Python, GCP Vertex AI, LangGraph, FastAPI, Docker, BigQuery.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Repository ]</b></a> • 
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 📖 Documentation ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Enterprise GraphRAG Knowledge Engine</h3>
+      <h3>🔍 Enterprise RAG & Knowledge Intelligence Engine</h3>
       <p>
-        <img src="https://img.shields.io/badge/GraphRAG-Hybrid--Search-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini--1.5-GCP-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vertex_Search-GCP-34A853?style=flat-square" />
+        <img src="https://img.shields.io/badge/ChromaDB-Vector_Store-7C3AED?style=flat-square" />
       </p>
-      <p><b>Grounded Context Retrieval with Knowledge Graph Coupling</b></p>
+      <p><b>Context-Grounded Document Search & Intelligence</b></p>
       <ul>
-        <li>Combines vector similarity search with structured entity graphs to solve complex multi-hop queries.</li>
-        <li>Achieved 98.4% groundedness score with zero hallucinated response policies.</li>
-        <li><b>Tech Stack</b>: Python, Neo4j, Pinecone, Gemini 1.5 Pro, LlamaIndex.</li>
+        <li>Developed high-accuracy RAG pipelines using Vertex AI Search and ChromaDB for enterprise knowledge bases.</li>
+        <li>Supported long-context reasoning, semantic document retrieval, and role-based access security.</li>
+        <li><b>Tech Stack</b>: Python, Vertex AI Search, ChromaDB, LangChain, Gemini 1.5 Pro.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Repository ]</b></a> • 
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 📖 Documentation ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ AI Governance & Audit Guardrail Engine</h3>
+      <h3>⚡ Multi-Agent Operations & Incident RCA System</h3>
       <p>
-        <img src="https://img.shields.io/badge/Security-LLM--Guardrails-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/ServiceNow-ITSM-0A66C2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi--Agent-LangGraph-2B2D42?style=flat-square" />
+        <img src="https://img.shields.io/badge/AIOps-Incident_Triaging-0A66C2?style=flat-square" />
       </p>
-      <p><b>Real-Time Policy Compliance & PII Redaction Proxy</b></p>
+      <p><b>Autonomous Incident Classification & Root-Cause Analysis</b></p>
       <ul>
-        <li>Sub-50ms streaming latency proxy that intercepts LLM calls to enforce corporate compliance rules.</li>
-        <li>Prevents prompt injection attacks and redacts sensitive internal credentials dynamically.</li>
-        <li><b>Tech Stack</b>: TypeScript, Node.js, Express, OpenTelemetry, GCP Cloud Run.</li>
+        <li>Created multi-agent systems to monitor production telemetry, detect incidents, and recommend automated RCA.</li>
+        <li>Significantly reduced Mean Time to Resolution (MTTR) for enterprise IT incident tickets.</li>
+        <li><b>Tech Stack</b>: LangGraph, Python, AWS Bedrock, Node.js, Oracle.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Repository ]</b></a> • 
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 📖 Documentation ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ ServiceNow AI Operations Copilot</h3>
+      <h3>📋 Enterprise Change Management & CAB Chatbot</h3>
       <p>
-        <img src="https://img.shields.io/badge/AIOps-Incident--Triaging-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-Glassmorphic--UI-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/ITSM-Change_Control-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-UI_Design-000000?style=flat-square" />
       </p>
-      <p><b>Autonomous ITSM Change & Incident Management Assistant</b></p>
+      <p><b>Automated ITIL Change Request & Documentation Assistant</b></p>
       <ul>
-        <li>Automates Root Cause Analysis (RCA) and risk evaluation for enterprise production change requests.</li>
-        <li>Reduces Mean Time to Resolution (MTTR) by 45% across automated IT workflows.</li>
-        <li><b>Tech Stack</b>: Next.js 14, React, Tailwind CSS, Python, Anthropic Claude 3.5.</li>
+        <li>Designed an intelligent assistant for Change Advisory Board (CAB) review workflows and automated documentation.</li>
+        <li>Empowered employees and risk managers with immediate policy verification.</li>
+        <li><b>Tech Stack</b>: Next.js, React, Tailwind CSS, Python, Anthropic Claude.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Repository ]</b></a> • 
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 📖 Documentation ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
       </p>
     </td>
   </tr>
@@ -460,40 +441,41 @@ gantt
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Google_Cloud-Professional_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Google_Cloud-CDL_%26_ACE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/><br/>
       <b>Google Cloud Certified</b><br/>
-      Professional Cloud Architect & ML Specialist
+      Digital Leader (CDL) & Associate Cloud Engineer (ACE)<br/>
+      <i>30+ Google Cloud Skill Badges</i>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-3x_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
       <b>Amazon Web Services</b><br/>
-      Solutions Architect & AI Practitioner
+      3x AWS Certified Practitioner & AI Specialist
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/IIT_Guwahati-BSc_DS_%26_AI-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" /><br/><br/>
       <b>IIT Guwahati</b><br/>
-      BSc in Data Science & Artificial Intelligence
+      B.Sc. (Honours) Data Science & Artificial Intelligence
     </td>
   </tr>
 </table>
 
 ---
 
-## ⏳ Career & Engineering Timeline
+## ⏳ Career & Education Timeline
 
 ```
-2026 ──► [Founder & Principal Architect @ QubiQode]
-         ├─ Scaling Multi-Agent Enterprise OS primitives
-         └─ Deploying autonomous IT Operations Copilots
-2025 ──► [Senior AI Systems Engineering & Research]
-         ├─ Published research on GraphRAG & LLM Evaluation
-         └─ Built ServiceNow-aligned Incident & Change Management AI agents
-2024 ──► [BSc Data Science & AI @ IIT Guwahati]
-         ├─ Advanced Neural Architectures & Statistical Machine Learning
-         └─ Spearheaded production LLM pipeline implementations
-2023 ──► [Software & Cloud Engineering Roots]
-         ├─ Built scalable backend services with FastAPI, Node.js & GCP
-         └─ Open Source Contributions & AI Automation Research
+2026+ ──► [Target Roadmap: Senior AI Engineer ➔ AI Solution Architect]
+          └─ Designing scalable enterprise agent platforms & AI governance
+2023+ ──► [Software Engineer (AI/ML) @ HCLTech]
+          ├─ Centralized Enterprise AI Platform for 53 Teams / 553+ Engineers
+          ├─ HCLTech Brand Ambassador & AI Club Core Team
+          └─ Incident Management, Change Control & RAG Pipelines
+2022+ ──► [B.Sc. (Honours) Data Science & AI @ IIT Guwahati]
+          └─ Specializing in Machine Learning, Deep Learning & Cloud AI
+2022  ──► [Higher Secondary CS — 97%]
+          └─ Computer Science Society Leader & Technical Club
+2020  ──► [SSLC — Full A+]
+          └─ Little Kites IT Club Leader & Scouts
 ```
 
 ---
@@ -508,22 +490,12 @@ gantt
     <td width="25%" align="center"><b>💡 Experimenting</b></td>
   </tr>
   <tr>
-    <td valign="top">Autonomous Multi-Agent Task Routers for Enterprise Workflows</td>
-    <td valign="top">Formal Verification & Determinism in Non-Deterministic AI Pipelines</td>
-    <td valign="top">Self-Correcting Reflexion Loops in Agentic Code Synthesis</td>
-    <td valign="top">Sub-100ms Guardrails on Cloudflare Workers & GCP Edge</td>
+    <td valign="top">Centralized Enterprise AI Agent SDKs & Developer Frameworks</td>
+    <td valign="top">LLM Security, Guardrails & Distributed AI Infrastructure</td>
+    <td valign="top">Multi-Agent Consensus & Self-Healing IT Operations</td>
+    <td valign="top">Vertex AI Agent Builder Custom Tool Calling & Vector Pipelines</td>
   </tr>
 </table>
-
----
-
-## 🌐 Open Source & Community Philosophy
-
-> *"Open Source is the foundation of modern artificial intelligence. Code quality, transparent documentation, and community mentorship drive sustainable innovation."*
-
-* 🤝 **Active Contributor**: Supporting the ecosystem around LangChain, LangGraph, and open vector database tooling.
-* 🎓 **Mentorship**: Helping aspiring engineers navigate Data Science, LLM engineering, and cloud architecture.
-* 🌟 **Code Standard**: Writing clean, modular, typed, and thoroughly tested code with 100% CI/CD validation.
 
 ---
 
@@ -533,26 +505,28 @@ gantt
 class SonuThomas(Developer):
     def __init__(self):
         self.name = "Sonu Thomas"
-        self.fuel = "☕ Black Coffee + Dark Chocolate"
-        self.mode = "🚀 Engineering Modern AI Systems"
-        self.quote = "If it works in demo but fails in production, it is not engineering."
+        self.role = "Software Engineer (AI/ML) @ HCLTech"
+        self.education = "BSc Data Science & AI @ IIT Guwahati"
+        self.location = "Kannur, Kerala, India"
+        self.linkedin_followers = "6,000+"
+        self.philosophy = "Production-ready implementations over short-lived demos."
 
-    def daily_routine(self):
+    def engineering_loop(self):
         while True:
-            self.think_in_systems()
-            self.write_clean_code()
-            self.verify_guardrails()
-            self.ship_to_production()
+            self.design_enterprise_architecture()
+            self.build_agentic_systems()
+            self.ensure_security_and_governance()
+            self.empower_engineering_teams()
 
-# Execute Developer Loop
-SonuThomas().daily_routine()
+# Execute Career Loop
+SonuThomas().engineering_loop()
 ```
 
 <div align="center">
 
-| ☕ Coffee to Code Ratio | 🌙 Preferred Commit Hours | 🎲 Developer Philosophy |
-|:---:|:---:|:---:|
-| `450+ Cups / Year` | `22:00 — 03:00 IST` | *"Build systems, not isolated scripts."* |
+| ☕ Coffee to Code | 📍 Location | 💼 LinkedIn Network | 💡 Philosophy |
+|:---:|:---:|:---:|:---:|
+| `Black Coffee` | `Kannur, Kerala, India` | `6,000+ Followers` | *"Build systems that scale to operations."* |
 
 </div>
 
@@ -563,7 +537,7 @@ SonuThomas().daily_routine()
 <div align="center">
 
 <p align="center">
-  <b>Let's collaborate on Enterprise AI, Multi-Agent Architecture, or SaaS Products!</b>
+  <b>Connect with me for discussions on Enterprise AI, Multi-Agent Architecture, and Cloud Engineering!</b>
 </p>
 
 <a href="https://linkedin.com/in/sonu-thomas">
@@ -590,8 +564,8 @@ SonuThomas().daily_routine()
 <br/>
 
 <p>
-  <b>Designed with ❤️, Precision & Advanced AI Systems Engineering</b><br/>
-  © 2026 Sonu Thomas. All rights reserved. • <a href="#-sonu-thomas--senior-ai-engineer--systems-architect--enterprise-builder"><b>[ ⬆️ Back to Top ]</b></a>
+  <b>Designed with Precision & Enterprise AI Engineering Mindset</b><br/>
+  © 2026 Sonu Thomas. All rights reserved. • <a href="#-sonu-thomas--software-engineer-aiml--hcltech--bsc-ds--ai--iit-guwahati"><b>[ ⬆️ Back to Top ]</b></a>
 </p>
 
 </div>
