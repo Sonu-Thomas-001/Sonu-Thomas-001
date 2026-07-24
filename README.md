@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HERO HEADER BANNER (ANIMATED) -->
+<!-- HERO HEADER BANNER (ANIMATED SVG) -->
 <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/header-banner.svg" width="100%" alt="Sonu Thomas Header Banner" />
 
 <!-- TYPING ANIMATION SUBTITLE -->
@@ -44,16 +44,16 @@
 
 <!-- QUICK NAVIGATION BAR -->
 <p align="center">
-  <b><a href="#-about-me--identity">About</a></b> •
-  <b><a href="#%EF%B8%8F-areas-of-expertise">Expertise</a></b> •
-  <b><a href="#-tech-stack--ecosystem">Tech Stack</a></b> •
-  <b><a href="#-world-class-visualizations">Architecture</a></b> •
-  <b><a href="#-live-dashboards--analytics">Analytics</a></b> •
-  <b><a href="#-featured-enterprise-projects">Projects</a></b> •
-  <b><a href="#-certifications--credentials">Certifications</a></b> •
-  <b><a href="#-career--engineering-timeline">Timeline</a></b> •
-  <b><a href="#-research--currently-building">Research</a></b> •
-  <b><a href="#-contact--connect">Contact</a></b>
+  <b><a href="#introduction--bio">About</a></b> •
+  <b><a href="#areas-of-expertise">Expertise</a></b> •
+  <b><a href="#tech-stack--ecosystem">Tech Stack</a></b> •
+  <b><a href="#architecture--system-visualizations">Architecture</a></b> •
+  <b><a href="#live-dashboards--analytics">Analytics</a></b> •
+  <b><a href="#featured-enterprise-projects">Projects</a></b> •
+  <b><a href="#certifications--credentials">Certifications</a></b> •
+  <b><a href="#career--education-timeline">Timeline</a></b> •
+  <b><a href="#research--currently-building">Research</a></b> •
+  <b><a href="#contact--connect">Contact</a></b>
 </p>
 
 </div>
@@ -63,7 +63,7 @@
 <!-- ANIMATED LASER DIVIDER -->
 <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
-## 📖 Introduction & Bio
+## Introduction & Bio
 
 <!-- ANIMATED LIVE STATUS TICKER -->
 <p align="center">
@@ -78,26 +78,26 @@ I am a **Software Engineer (AI/ML Specialist) at HCLTech**, **IIT Guwahati Schol
 
 My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Agent Systems**, and **AI Production Engineering**. At HCLTech, I work on large-scale enterprise AI initiatives—building resilient AI platforms, RAG systems, and autonomous digital workers that enable engineering teams to automate complex operational workflows safely.
 
-### 🎭 Engineering Identity & Leadership
-* 🏢 **Software Engineer (AI/ML) @ HCLTech**: Designing enterprise-scale AI solutions, incident automation agents, and centralized developer platforms.
-* 🎓 **B.Sc. (Honours) Data Science & AI @ IIT Guwahati**: Rigorous academic foundation in ML theory, statistics, deep learning, and large-scale AI systems.
-* 🤖 **Agentic AI & Multi-Agent Specialist**: Orchestrating multi-agent collaboration with LangGraph, Google Vertex AI Agent Builder, and AWS Bedrock.
-* 🛡️ **Enterprise Operations & ITSM Alignment**: Integrating AI capabilities directly into Incident Management, Problem Resolution, Change Management, and CAB workflows.
-* 🌟 **HCLTech Brand Ambassador & AI Club Core Team**: Leading community events, technical workshops, and developer initiatives across HCLTech.
+### Engineering Identity & Leadership
+* <img src="https://img.shields.io/badge/-Software_Engineer-00569B?style=flat-square&logo=hcl&logoColor=white" /> **Software Engineer (AI/ML) @ HCLTech**: Designing enterprise-scale AI solutions, incident automation agents, and centralized developer platforms.
+* <img src="https://img.shields.io/badge/-IIT_Guwahati-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" /> **B.Sc. (Honours) Data Science & AI @ IIT Guwahati**: Rigorous academic foundation in ML theory, statistics, deep learning, and large-scale AI systems.
+* <img src="https://img.shields.io/badge/-Agentic_AI-00F2FE?style=flat-square&logo=openai&logoColor=white" /> **Agentic AI & Multi-Agent Specialist**: Orchestrating multi-agent collaboration with LangGraph, Google Vertex AI Agent Builder, and AWS Bedrock.
+* <img src="https://img.shields.io/badge/-ITSM_Operations-10B981?style=flat-square&logo=shield&logoColor=white" /> **Enterprise Operations & ITSM Alignment**: Integrating AI capabilities directly into Incident Management, Problem Resolution, Change Management, and CAB workflows.
+* <img src="https://img.shields.io/badge/-Brand_Ambassador-FF9900?style=flat-square&logo=star&logoColor=white" /> **HCLTech Brand Ambassador & AI Club Core Team**: Leading community events, technical workshops, and developer initiatives across HCLTech.
 
 ---
 
-## 👨‍💻 About Me & Profile Grid
+## About Me & Profile Grid
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 Current Role</h3>
+      <h3><img src="https://img.shields.io/badge/-Current_Role-0A66C2?style=flat-square&logo=briefcase&logoColor=white" /></h3>
       <p><b>Software Engineer (AI/ML Specialist)</b> @ <a href="https://www.hcltech.com">HCLTech</a><br/>
       Working on enterprise-scale AI platforms, multi-agent systems, and production engineering initiatives.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Academic Background</h3>
+      <h3><img src="https://img.shields.io/badge/-Academic_Background-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" /></h3>
       <p><b>B.Sc. (Honours) Data Science & Artificial Intelligence</b><br/>
       <i>Indian Institute of Technology (IIT) Guwahati</i><br/>
       Core: Machine Learning, Deep Learning, Large-Scale AI Systems, Data Engineering & Cloud Computing.</p>
@@ -105,25 +105,25 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📍 Location & Reach</h3>
-      <p>📍 <b>Kannur, Kerala, India</b><br/>
-      🌐 <b>LinkedIn:</b> 6,000+ Followers & Active Technical Writer<br/>
-      🏅 <b>HCLTech Brand Ambassador</b> & AI Club Core Team Member.</p>
+      <h3><img src="https://img.shields.io/badge/-Location_%26_Reach-00F2FE?style=flat-square&logo=googlemaps&logoColor=white" /></h3>
+      <p><b>Kannur, Kerala, India</b><br/>
+      <b>LinkedIn:</b> 6,000+ Followers & Active Technical Writer<br/>
+      <b>HCLTech Brand Ambassador</b> & AI Club Core Team Member.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Career Vision</h3>
+      <h3><img src="https://img.shields.io/badge/-Career_Vision-2563EB?style=flat-square&logo=target&logoColor=white" /></h3>
       <p>To become a <b>Distinguished Enterprise AI Architect</b>, designing production-grade agentic platforms, self-healing operations, and secure digital workers for global organizations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏆 Certifications Highlight</h3>
+      <h3><img src="https://img.shields.io/badge/-Certifications-FF9900?style=flat-square&logo=googlecloud&logoColor=white" /></h3>
       <p>• <b>Google Cloud Certified</b> Digital Leader (CDL) & Associate Cloud Engineer (ACE)<br/>
       • <b>3x AWS Certified</b> Professional & AI Specialist<br/>
       • <b>30+ Google Cloud Skill Badges</b> (Vertex AI Prompt Design, Data Science, MLOps)</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Core Engineering Mindset</h3>
+      <h3><img src="https://img.shields.io/badge/-Engineering_Mindset-10B981?style=flat-square&logo=shield&logoColor=white" /></h3>
       <p>• <b>Production-Ready Over Demos</b><br/>
       • <b>Security-First AI Design</b><br/>
       • <b>Scalable Multi-Agent Infrastructure</b><br/>
@@ -134,7 +134,7 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 ---
 
-## 🛠️ Areas of Expertise
+## Areas of Expertise
 
 <!-- ANIMATED EXPERTISE RADAR SVGs -->
 <p align="center">
@@ -149,25 +149,25 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 +------------------------------------+----------------------------------------------+
 | DOMAIN                             | ENTERPRISE CAPABILITIES & IMPACT             |
 +------------------------------------+----------------------------------------------+
-| 🤖 Enterprise AI & Multi-Agent     | Centralized agent platforms, multi-agent     |
+| Enterprise AI & Multi-Agent        | Centralized agent platforms, multi-agent     |
 |                                    | consensus, Vertex AI Agent Builder, LangGraph |
 +------------------------------------+----------------------------------------------+
-| 📚 RAG & Knowledge Intelligence    | Vertex AI Search, ChromaDB, enterprise       |
+| RAG & Knowledge Intelligence       | Vertex AI Search, ChromaDB, enterprise       |
 |                                    | document intelligence, hybrid vector search  |
 +------------------------------------+----------------------------------------------+
-| 🛡️ Enterprise ITSM Operations      | Automated Incident, Problem, RCA, Change     |
+| Enterprise ITSM Operations         | Automated Incident, Problem, RCA, Change     |
 |                                    | Control, and CAB Process AI Copilots         |
 +------------------------------------+----------------------------------------------+
-| ☁️ Cloud AI & Production MLOps     | GCP (Vertex AI Studio, BigQuery, GCS),       |
+| Cloud AI & Production MLOps        | GCP (Vertex AI Studio, BigQuery, GCS),       |
 |                                    | AWS Bedrock, SageMaker, Docker, CI/CD        |
 +------------------------------------+----------------------------------------------+
-| ⚡ Full Stack & Backend APIs       | Python, Java, FastAPI, Node.js, React,       |
+| Full Stack & Backend APIs          | Python, Java, FastAPI, Node.js, React,       |
 |                                    | Next.js, Tailwind CSS, Framer Motion         |
 +------------------------------------+----------------------------------------------+
 ```
 
 <details>
-<summary><b>🔍 Expand Detailed Capability Breakdown</b></summary>
+<summary><b>Expand Detailed Capability Breakdown</b></summary>
 
 <br/>
 
@@ -181,7 +181,7 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 ---
 
-## 💻 Tech Stack & Ecosystem
+## Tech Stack & Ecosystem
 
 <!-- ANIMATED TECH MARQUEE BANNER -->
 <p align="center">
@@ -190,14 +190,14 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 <br/>
 
-### 🚀 Programming Languages
+### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,sql,js,ts,html,css,cpp&perline=8" alt="Languages" />
   </a>
 </p>
 
-### 🤖 AI, LLM & Agent Frameworks
+### AI, LLM & Agent Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge&logo=git&logoColor=00F2FE" />
@@ -208,21 +208,21 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### ⚡ Frontend & Backend Engineering
+### Frontend & Backend Engineering
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,bootstrap&perline=7" alt="Frameworks" />
   </a>
 </p>
 
-### ☁️ Cloud Platforms & DevOps
+### Cloud Platforms & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github,linux&perline=6" alt="Cloud & DevOps" />
   </a>
 </p>
 
-### 🗄️ Databases & Data Stores
+### Databases & Data Stores
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite&perline=4" alt="Databases" />
@@ -234,7 +234,7 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 ---
 
-## 🎨 World-Class Visualizations
+## Architecture & System Visualizations
 
 <!-- ANIMATED ARCHITECTURE FLOW INDICATOR -->
 <p align="center">
@@ -243,7 +243,7 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 <br/>
 
-### 1. 🏗️ Enterprise Multi-Agent AI Platform Architecture
+### 1. Enterprise Multi-Agent AI Platform Architecture
 ```mermaid
 graph TD
     classDef platformStyle fill:#0F172A,stroke:#00F2FE,stroke-width:2px,color:#FFF;
@@ -287,7 +287,7 @@ graph TD
     class VertexAI,AWSBedrock,VectorStore,BigQuery cloudStyle;
 ```
 
-### 2. ⚡ Enterprise ITSM Incident & Root-Cause Analysis (RCA) Flow
+### 2. Enterprise ITSM Incident & Root-Cause Analysis (RCA) Flow
 ```mermaid
 sequenceDiagram
     autonumber
@@ -308,7 +308,7 @@ sequenceDiagram
     Engineer-->>Gateway: Approve Automated Fix / Execution Logged
 ```
 
-### 3. 🧠 Sonu's AI & Engineering Mindmap
+### 3. AI & Engineering Ecosystem Mindmap
 ```mermaid
 mindmap
   root((Sonu Thomas))
@@ -336,7 +336,7 @@ mindmap
         FastAPI / Node.js
 ```
 
-### 4. 📅 Career & Engineering Progression Roadmap
+### 4. Career & Engineering Progression Roadmap
 ```mermaid
 gantt
     title Sonu Thomas — Professional Career Progression
@@ -354,11 +354,11 @@ gantt
 
 ---
 
-## 📊 Live Dashboards & Analytics
+## Live Dashboards & Analytics
 
 <div align="center">
 
-### 📈 GitHub Profile Overview
+### GitHub Profile Overview
 
 <p align="center">
   <a href="https://github.com/Sonu-Thomas-001">
@@ -378,14 +378,14 @@ gantt
   </a>
 </p>
 
-### 🏆 GitHub Achievements & Trophies
+### GitHub Achievements & Trophies
 <p align="center">
   <a href="https://github.com/Sonu-Thomas-001">
     <img src="https://github-profile-trophy.vercel.app/?username=Sonu-Thomas-001&theme=darkhub&column=6" width="100%" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
-### 🐍 Contribution Activity Snake (Animated)
+### Contribution Activity Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/output/github-contribution-grid-snake.svg">
@@ -396,12 +396,12 @@ gantt
 
 ---
 
-## 🚀 Featured Enterprise Projects
+## Featured Enterprise Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Enterprise AI Agent Platform & Governance</h3>
+      <h3>Enterprise AI Agent Platform & Governance</h3>
       <p>
         <img src="https://img.shields.io/badge/Scale-Enterprise_Grade-00F2FE?style=flat-square" />
         <img src="https://img.shields.io/badge/GCP-Vertex_AI-4285F4?style=flat-square" />
@@ -413,11 +413,11 @@ gantt
         <li><b>Tech Stack</b>: Python, GCP Vertex AI, LangGraph, FastAPI, Docker, BigQuery.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ View Details ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Enterprise RAG & Knowledge Intelligence Engine</h3>
+      <h3>Enterprise RAG & Knowledge Intelligence Engine</h3>
       <p>
         <img src="https://img.shields.io/badge/Vertex_Search-GCP-34A853?style=flat-square" />
         <img src="https://img.shields.io/badge/ChromaDB-Vector_Store-7C3AED?style=flat-square" />
@@ -429,13 +429,13 @@ gantt
         <li><b>Tech Stack</b>: Python, Vertex AI Search, ChromaDB, LangChain, Gemini 1.5 Pro.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ View Details ]</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Multi-Agent Operations & Incident RCA System</h3>
+      <h3>Multi-Agent Operations & Incident RCA System</h3>
       <p>
         <img src="https://img.shields.io/badge/Multi--Agent-LangGraph-2B2D42?style=flat-square" />
         <img src="https://img.shields.io/badge/AIOps-Incident_Triaging-0A66C2?style=flat-square" />
@@ -447,11 +447,11 @@ gantt
         <li><b>Tech Stack</b>: LangGraph, Python, AWS Bedrock, Node.js, Oracle.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ View Details ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📋 Enterprise Change Management & CAB Chatbot</h3>
+      <h3>Enterprise Change Management & CAB Chatbot</h3>
       <p>
         <img src="https://img.shields.io/badge/ITSM-Change_Control-2563EB?style=flat-square" />
         <img src="https://img.shields.io/badge/Next.js-UI_Design-000000?style=flat-square" />
@@ -463,7 +463,7 @@ gantt
         <li><b>Tech Stack</b>: Next.js, React, Tailwind CSS, Python, Anthropic Claude.</li>
       </ul>
       <p>
-        <a href="https://github.com/Sonu-Thomas-001"><b>[ 🚀 View Details ]</b></a>
+        <a href="https://github.com/Sonu-Thomas-001"><b>[ View Details ]</b></a>
       </p>
     </td>
   </tr>
@@ -471,7 +471,7 @@ gantt
 
 ---
 
-## 📜 Certifications & Credentials
+## Certifications & Credentials
 
 <!-- ANIMATED CERTIFICATIONS STRIP -->
 <p align="center">
@@ -503,7 +503,7 @@ gantt
 
 ---
 
-## ⏳ Career & Education Timeline
+## Career & Education Timeline
 
 <!-- ANIMATED TIMELINE PROGRESSION BAR -->
 <p align="center">
@@ -529,7 +529,7 @@ gantt
 
 ---
 
-## 🔬 Research & Currently Building
+## Research & Currently Building
 
 <!-- ANIMATED RESEARCH LAB TICKER -->
 <p align="center">
@@ -540,10 +540,10 @@ gantt
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><b>🛠️ Building</b></td>
-    <td width="25%" align="center"><b>📖 Reading</b></td>
-    <td width="25%" align="center"><b>🔬 Researching</b></td>
-    <td width="25%" align="center"><b>💡 Experimenting</b></td>
+    <td width="25%" align="center"><b>Building</b></td>
+    <td width="25%" align="center"><b>Reading</b></td>
+    <td width="25%" align="center"><b>Researching</b></td>
+    <td width="25%" align="center"><b>Experimenting</b></td>
   </tr>
   <tr>
     <td valign="top">Centralized Enterprise AI Agent SDKs & Developer Frameworks</td>
@@ -555,7 +555,7 @@ gantt
 
 ---
 
-## ☕ Developer Culture & Fun
+## Developer Culture & Engineering Mindset
 
 <!-- ANIMATED COFFEE TO CODE WIDGET -->
 <p align="center">
@@ -587,7 +587,7 @@ SonuThomas().engineering_loop()
 
 <div align="center">
 
-| ☕ Coffee to Code | 📍 Location | 💼 LinkedIn Network | 💡 Philosophy |
+| Coffee to Code | Location | LinkedIn Network | Engineering Philosophy |
 |:---:|:---:|:---:|:---:|
 | `Black Coffee` | `Kannur, Kerala, India` | `6,000+ Followers` | *"Build systems that scale to operations."* |
 
@@ -595,7 +595,7 @@ SonuThomas().engineering_loop()
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 <!-- ANIMATED CONTACT BANNER -->
 <p align="center">
@@ -636,7 +636,7 @@ SonuThomas().engineering_loop()
 
 <p>
   <b>Designed with Precision & Enterprise AI Engineering Mindset</b><br/>
-  © 2026 Sonu Thomas. All rights reserved. • <a href="#-sonu-thomas--software-engineer-aiml--hcltech--bsc-ds--ai--iit-guwahati"><b>[ ⬆️ Back to Top ]</b></a>
+  © 2026 Sonu Thomas. All rights reserved. • <a href="#sonu-thomas"><b>[ Back to Top ]</b></a>
 </p>
 
 </div>

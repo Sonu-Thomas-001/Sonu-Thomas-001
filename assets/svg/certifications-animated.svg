@@ -20,7 +20,7 @@
     <circle cx="28" cy="25" r="12" fill="#4285F4" fill-opacity="0.2">
       <animate attributeName="r" values="10;15;10" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="28" y="30" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="14">☁️</text>
+    <circle cx="28" cy="25" r="6" fill="#4285F4"/>
     <text x="52" y="24" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" fill="#4285F4">GOOGLE CLOUD CERTIFIED</text>
     <text x="52" y="38" font-family="-apple-system, sans-serif" font-size="10" font-weight="600" fill="#94A3B8">CDL &amp; ACE • 30+ SKILL BADGES</text>
   </g>
@@ -31,7 +31,7 @@
     <circle cx="28" cy="25" r="12" fill="#FF9900" fill-opacity="0.2">
       <animate attributeName="r" values="10;15;10" dur="2.5s" repeatCount="indefinite"/>
     </circle>
-    <text x="28" y="30" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="14">🟧</text>
+    <circle cx="28" cy="25" r="6" fill="#FF9900"/>
     <text x="52" y="24" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" fill="#FF9900">AWS CERTIFIED PLATFORM</text>
     <text x="52" y="38" font-family="-apple-system, sans-serif" font-size="10" font-weight="600" fill="#94A3B8">3X CERTIFIED • BEDROCK SPECIALIST</text>
   </g>
@@ -42,7 +42,7 @@
     <circle cx="28" cy="25" r="12" fill="#7C3AED" fill-opacity="0.2">
       <animate attributeName="r" values="10;15;10" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <text x="28" y="30" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="14">🎓</text>
+    <circle cx="28" cy="25" r="6" fill="#7C3AED"/>
     <text x="52" y="24" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" fill="#C084FC">IIT GUWAHATI ACADEMIC</text>
     <text x="52" y="38" font-family="-apple-system, sans-serif" font-size="10" font-weight="600" fill="#94A3B8">BSC (HONOURS) DATA SCIENCE &amp; AI</text>
   </g>

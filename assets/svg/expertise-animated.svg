@@ -25,7 +25,7 @@
       <animate attributeName="r" values="8;14;8" dur="2.2s" repeatCount="indefinite"/>
     </circle>
     <circle cx="25" cy="40" r="5" fill="#00F2FE"/>
-    <text x="45" y="36" class="exp-title">🤖 Multi-Agent Systems</text>
+    <text x="45" y="36" class="exp-title">Multi-Agent Systems</text>
     <text x="45" y="54" class="exp-sub">LangGraph • Vertex Builder</text>
   </g>
 
@@ -36,7 +36,7 @@
       <animate attributeName="r" values="8;14;8" dur="2.8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="25" cy="40" r="5" fill="#7C3AED"/>
-    <text x="45" y="36" class="exp-title">📚 Enterprise RAG</text>
+    <text x="45" y="36" class="exp-title">Enterprise RAG</text>
     <text x="45" y="54" class="exp-sub">Vertex Search • ChromaDB</text>
   </g>
 
@@ -47,7 +47,7 @@
       <animate attributeName="r" values="8;14;8" dur="2.4s" repeatCount="indefinite"/>
     </circle>
     <circle cx="25" cy="40" r="5" fill="#3B82F6"/>
-    <text x="45" y="36" class="exp-title">☁️ Cloud AI Infra</text>
+    <text x="45" y="36" class="exp-title">Cloud AI Infrastructure</text>
     <text x="45" y="54" class="exp-sub">GCP Vertex • AWS Bedrock</text>
   </g>
 
@@ -58,7 +58,7 @@
       <animate attributeName="r" values="8;14;8" dur="3s" repeatCount="indefinite"/>
     </circle>
     <circle cx="25" cy="40" r="5" fill="#10B981"/>
-    <text x="45" y="36" class="exp-title">🛡️ ITSM Automation</text>
+    <text x="45" y="36" class="exp-title">ITSM Operations</text>
     <text x="45" y="54" class="exp-sub">Incident • Change • CAB</text>
   </g>
 
@@ -69,7 +69,7 @@
       <animate attributeName="r" values="8;14;8" dur="2.6s" repeatCount="indefinite"/>
     </circle>
     <circle cx="25" cy="40" r="5" fill="#F59E0B"/>
-    <text x="45" y="36" class="exp-title">⚡ Modern Full Stack</text>
+    <text x="45" y="36" class="exp-title">Modern Full Stack</text>
     <text x="45" y="54" class="exp-sub">Next.js • React • FastAPI</text>
   </g>
 </svg>

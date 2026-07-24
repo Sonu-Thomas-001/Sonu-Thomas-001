@@ -44,61 +44,61 @@
     <!-- First Group of Tech Badges -->
     <g transform="translate(0, 18)">
       <rect x="10" y="0" width="130" height="36" class="pill-cyan"/>
-      <text x="75" y="23" text-anchor="middle" class="txt-glow">🐍 Python</text>
+      <text x="75" y="23" text-anchor="middle" class="txt-glow">Python</text>
 
       <rect x="150" y="0" width="140" height="36" class="pill-purple"/>
-      <text x="220" y="23" text-anchor="middle" class="txt">🦜 LangChain</text>
+      <text x="220" y="23" text-anchor="middle" class="txt">LangChain</text>
 
       <rect x="300" y="0" width="140" height="36" class="pill-cyan"/>
-      <text x="370" y="23" text-anchor="middle" class="txt">🕸️ LangGraph</text>
+      <text x="370" y="23" text-anchor="middle" class="txt">LangGraph</text>
 
       <rect x="450" y="0" width="150" height="36" class="pill-blue"/>
-      <text x="525" y="23" text-anchor="middle" class="txt">⚡ Vertex AI</text>
+      <text x="525" y="23" text-anchor="middle" class="txt">Vertex AI</text>
 
       <rect x="610" y="0" width="150" height="36" class="pill-cyan"/>
-      <text x="685" y="23" text-anchor="middle" class="txt">🔮 Gemini Pro</text>
+      <text x="685" y="23" text-anchor="middle" class="txt">Gemini Pro</text>
 
       <rect x="770" y="0" width="150" height="36" class="pill-orange"/>
-      <text x="845" y="23" text-anchor="middle" class="txt">🟧 AWS Bedrock</text>
+      <text x="845" y="23" text-anchor="middle" class="txt">AWS Bedrock</text>
 
       <rect x="930" y="0" width="140" height="36" class="pill-purple"/>
-      <text x="1000" y="23" text-anchor="middle" class="txt">🧠 Claude 3.5</text>
+      <text x="1000" y="23" text-anchor="middle" class="txt">Claude 3.5</text>
 
       <rect x="1080" y="0" width="140" height="36" class="pill-cyan"/>
-      <text x="1150" y="23" text-anchor="middle" class="txt">📚 ChromaDB</text>
+      <text x="1150" y="23" text-anchor="middle" class="txt">ChromaDB</text>
 
       <rect x="1230" y="0" width="150" height="36" class="pill-blue"/>
-      <text x="1305" y="23" text-anchor="middle" class="txt">🔥 PyTorch</text>
+      <text x="1305" y="23" text-anchor="middle" class="txt">PyTorch</text>
     </g>
 
     <!-- Duplicate Set for Seamless Loop -->
     <g transform="translate(1400, 18)">
       <rect x="10" y="0" width="130" height="36" class="pill-cyan"/>
-      <text x="75" y="23" text-anchor="middle" class="txt-glow">🐍 Python</text>
+      <text x="75" y="23" text-anchor="middle" class="txt-glow">Python</text>
 
       <rect x="150" y="0" width="140" height="36" class="pill-purple"/>
-      <text x="220" y="23" text-anchor="middle" class="txt">🦜 LangChain</text>
+      <text x="220" y="23" text-anchor="middle" class="txt">LangChain</text>
 
       <rect x="300" y="0" width="140" height="36" class="pill-cyan"/>
-      <text x="370" y="23" text-anchor="middle" class="txt">🕸️ LangGraph</text>
+      <text x="370" y="23" text-anchor="middle" class="txt">LangGraph</text>
 
       <rect x="450" y="0" width="150" height="36" class="pill-blue"/>
-      <text x="525" y="23" text-anchor="middle" class="txt">⚡ Vertex AI</text>
+      <text x="525" y="23" text-anchor="middle" class="txt">Vertex AI</text>
 
       <rect x="610" y="0" width="150" height="36" class="pill-cyan"/>
-      <text x="685" y="23" text-anchor="middle" class="txt">🔮 Gemini Pro</text>
+      <text x="685" y="23" text-anchor="middle" class="txt">Gemini Pro</text>
 
       <rect x="770" y="0" width="150" height="36" class="pill-orange"/>
-      <text x="845" y="23" text-anchor="middle" class="txt">🟧 AWS Bedrock</text>
+      <text x="845" y="23" text-anchor="middle" class="txt">AWS Bedrock</text>
 
       <rect x="930" y="0" width="140" height="36" class="pill-purple"/>
-      <text x="1000" y="23" text-anchor="middle" class="txt">🧠 Claude 3.5</text>
+      <text x="1000" y="23" text-anchor="middle" class="txt">Claude 3.5</text>
 
       <rect x="1080" y="0" width="140" height="36" class="pill-cyan"/>
-      <text x="1150" y="23" text-anchor="middle" class="txt">📚 ChromaDB</text>
+      <text x="1150" y="23" text-anchor="middle" class="txt">ChromaDB</text>
 
       <rect x="1230" y="0" width="150" height="36" class="pill-blue"/>
-      <text x="1305" y="23" text-anchor="middle" class="txt">🔥 PyTorch</text>
+      <text x="1305" y="23" text-anchor="middle" class="txt">PyTorch</text>
     </g>
   </g>
 
@@ -108,61 +108,61 @@
     
     <g transform="translate(0, 60)">
       <rect x="10" y="0" width="130" height="36" class="pill-blue"/>
-      <text x="75" y="23" text-anchor="middle" class="txt">⚛️ React</text>
+      <text x="75" y="23" text-anchor="middle" class="txt">React</text>
 
       <rect x="150" y="0" width="130" height="36" class="pill-purple"/>
-      <text x="215" y="23" text-anchor="middle" class="txt">▲ Next.js</text>
+      <text x="215" y="23" text-anchor="middle" class="txt">Next.js</text>
 
       <rect x="290" y="0" width="130" height="36" class="pill-cyan"/>
-      <text x="355" y="23" text-anchor="middle" class="txt">🚀 FastAPI</text>
+      <text x="355" y="23" text-anchor="middle" class="txt">FastAPI</text>
 
       <rect x="430" y="0" width="130" height="36" class="pill-blue"/>
-      <text x="495" y="23" text-anchor="middle" class="txt">🟢 Node.js</text>
+      <text x="495" y="23" text-anchor="middle" class="txt">Node.js</text>
 
       <rect x="570" y="0" width="140" height="36" class="pill-cyan"/>
-      <text x="640" y="23" text-anchor="middle" class="txt">🐋 Docker</text>
+      <text x="640" y="23" text-anchor="middle" class="txt">Docker</text>
 
       <rect x="720" y="0" width="150" height="36" class="pill-purple"/>
-      <text x="795" y="23" text-anchor="middle" class="txt">📊 BigQuery</text>
+      <text x="795" y="23" text-anchor="middle" class="txt">BigQuery</text>
 
       <rect x="880" y="0" width="140" height="36" class="pill-orange"/>
-      <text x="950" y="23" text-anchor="middle" class="txt">🛢️ Oracle DB</text>
+      <text x="950" y="23" text-anchor="middle" class="txt">Oracle DB</text>
 
       <rect x="1030" y="0" width="140" height="36" class="pill-blue"/>
-      <text x="1100" y="23" text-anchor="middle" class="txt">📘 TypeScript</text>
+      <text x="1100" y="23" text-anchor="middle" class="txt">TypeScript</text>
 
       <rect x="1180" y="0" width="130" height="36" class="pill-cyan"/>
-      <text x="1245" y="23" text-anchor="middle" class="txt">☕ Java</text>
+      <text x="1245" y="23" text-anchor="middle" class="txt">Java</text>
     </g>
 
     <!-- Duplicate Set for Seamless Loop -->
     <g transform="translate(1400, 60)">
       <rect x="10" y="0" width="130" height="36" class="pill-blue"/>
-      <text x="75" y="23" text-anchor="middle" class="txt">⚛️ React</text>
+      <text x="75" y="23" text-anchor="middle" class="txt">React</text>
 
       <rect x="150" y="0" width="130" height="36" class="pill-purple"/>
-      <text x="215" y="23" text-anchor="middle" class="txt">▲ Next.js</text>
+      <text x="215" y="23" text-anchor="middle" class="txt">Next.js</text>
 
       <rect x="290" y="0" width="130" height="36" class="pill-cyan"/>
-      <text x="355" y="23" text-anchor="middle" class="txt">🚀 FastAPI</text>
+      <text x="355" y="23" text-anchor="middle" class="txt">FastAPI</text>
 
       <rect x="430" y="0" width="130" height="36" class="pill-blue"/>
-      <text x="495" y="23" text-anchor="middle" class="txt">🟢 Node.js</text>
+      <text x="495" y="23" text-anchor="middle" class="txt">Node.js</text>
 
       <rect x="570" y="0" width="140" height="36" class="pill-cyan"/>
-      <text x="640" y="23" text-anchor="middle" class="txt">🐋 Docker</text>
+      <text x="640" y="23" text-anchor="middle" class="txt">Docker</text>
 
       <rect x="720" y="0" width="150" height="36" class="pill-purple"/>
-      <text x="795" y="23" text-anchor="middle" class="txt">📊 BigQuery</text>
+      <text x="795" y="23" text-anchor="middle" class="txt">BigQuery</text>
 
       <rect x="880" y="0" width="140" height="36" class="pill-orange"/>
-      <text x="950" y="23" text-anchor="middle" class="txt">🛢️ Oracle DB</text>
+      <text x="950" y="23" text-anchor="middle" class="txt">Oracle DB</text>
 
       <rect x="1030" y="0" width="140" height="36" class="pill-blue"/>
-      <text x="1100" y="23" text-anchor="middle" class="txt">📘 TypeScript</text>
+      <text x="1100" y="23" text-anchor="middle" class="txt">TypeScript</text>
 
       <rect x="1180" y="0" width="130" height="36" class="pill-cyan"/>
-      <text x="1245" y="23" text-anchor="middle" class="txt">☕ Java</text>
+      <text x="1245" y="23" text-anchor="middle" class="txt">Java</text>
     </g>
   </g>
 
