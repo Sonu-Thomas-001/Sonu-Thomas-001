@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34,30,58,138&height=280&section=header&text=SONU%20THOMAS&fontSize=56&fontAlignY=36&animation=fadeIn&fontColor=00F2FE&desc=Software%20Engineer%20%28AI/ML%29%20%E2%80%A2%20HCLTech%20%E2%80%A2%20BSc%20DS%20%26%20AI%20%40%20IIT%20Guwahati&descSize=19&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/header-banner.svg" width="100%" alt="Sonu Thomas Header Banner" />
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <a href="https://github.com/Sonu-Thomas-001">
