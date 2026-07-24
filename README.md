@@ -168,6 +168,13 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 ## 💻 Tech Stack & Ecosystem
 
+<!-- ANIMATED TECH MARQUEE BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/tech-stack-marquee.svg" width="100%" alt="Animated Tech Stack Marquee" />
+</p>
+
+<br/>
+
 ### 🚀 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
