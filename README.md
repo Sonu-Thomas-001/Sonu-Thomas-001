@@ -217,53 +217,57 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 ### 1. 🏗️ Centralized Enterprise AI Agent Platform Architecture (53 Teams / 553+ Engineers)
 ```mermaid
 graph TD
-    %% Styling
     classDef platformStyle fill:#0F172A,stroke:#00F2FE,stroke-width:2px,color:#FFF;
     classDef teamStyle fill:#1E293B,stroke:#3B82F6,stroke-width:2px,color:#FFF;
     classDef agentStyle fill:#311042,stroke:#A855F7,stroke-width:2px,color:#FFF;
     classDef cloudStyle fill:#064E3B,stroke:#10B981,stroke-width:2px,color:#FFF;
 
-    subgraph Enterprise Ecosystem [553+ Project Members Across 53 Teams]
-        TeamA[👥 DevOps & Infra Teams] :::teamStyle
-        TeamB[👥 Application Engineering Teams] :::teamStyle
-        TeamC[👥 ITSM & Operations Teams] :::teamStyle
+    subgraph EnterpriseEcosystem ["553+ Project Members Across 53 Teams"]
+        TeamA["DevOps & Infra Teams"]
+        TeamB["Application Engineering Teams"]
+        TeamC["ITSM & Operations Teams"]
     end
 
-    EnterpriseEcosystem -->|API Requests & Agent Specs| Gateway[🌐 Centralized AI Platform Gateway] :::platformStyle
+    EnterpriseEcosystem -->|API Requests & Agent Specs| Gateway["Centralized AI Platform Gateway"]
 
-    subgraph Centralized AI Agent Platform Infrastructure
-        Gateway --> Auth[🛡️ Identity, Security & Guardrail Proxy] :::platformStyle
-        Auth --> AgentRouter[🧠 Multi-Agent Orchestrator & SDK] :::agentStyle
+    subgraph PlatformInfra ["Centralized AI Agent Platform Infrastructure"]
+        Gateway --> Auth["Identity, Security & Guardrail Proxy"]
+        Auth --> AgentRouter["Multi-Agent Orchestrator & SDK"]
 
-        subgraph Specialized Agent Ecosystem
-            AgentRouter --> IncidentAgent[🤖 Autonomous Incident & RCA Agent] :::agentStyle
-            AgentRouter --> ChangeAgent[📋 Change Control & CAB Assistant Agent] :::agentStyle
-            AgentRouter --> SearchAgent[🔍 Enterprise RAG & Knowledge Agent] :::agentStyle
-            AgentRouter --> MonitorAgent[📈 Operations Monitoring Agent] :::agentStyle
+        subgraph AgentCluster ["Specialized Agent Ecosystem"]
+            AgentRouter --> IncidentAgent["Autonomous Incident & RCA Agent"]
+            AgentRouter --> ChangeAgent["Change Control & CAB Assistant Agent"]
+            AgentRouter --> SearchAgent["Enterprise RAG & Knowledge Agent"]
+            AgentRouter --> MonitorAgent["Operations Monitoring Agent"]
         end
 
-        subgraph Cloud AI & Enterprise Data Layer
-            IncidentAgent --> VertexAI[⚡ GCP Vertex AI Studio & Agent Builder] :::cloudStyle
-            ChangeAgent --> AWSBedrock[🟧 AWS Bedrock LLM Infrastructure] :::cloudStyle
-            SearchAgent --> VectorStore[(📚 Vertex AI Search & ChromaDB)] :::cloudStyle
-            MonitorAgent --> BigQuery[(📊 BigQuery & Oracle Enterprise Data)] :::cloudStyle
+        subgraph CloudLayer ["Cloud AI & Enterprise Data Layer"]
+            IncidentAgent --> VertexAI["GCP Vertex AI Studio & Agent Builder"]
+            ChangeAgent --> AWSBedrock["AWS Bedrock LLM Infrastructure"]
+            SearchAgent --> VectorStore[("Vertex AI Search & ChromaDB")]
+            MonitorAgent --> BigQuery[("BigQuery & Oracle Enterprise Data")]
         end
     end
 
-    Cloud AI & Enterprise Data Layer --> Telemetry[📈 Real-Time AI Observability & Audit Log] :::platformStyle
+    CloudLayer --> Telemetry["Real-Time AI Observability & Audit Log"]
     Telemetry -->|Remediation & Insights| EnterpriseEcosystem
+
+    class Gateway,Auth,Telemetry platformStyle;
+    class TeamA,TeamB,TeamC teamStyle;
+    class AgentRouter,IncidentAgent,ChangeAgent,SearchAgent,MonitorAgent agentStyle;
+    class VertexAI,AWSBedrock,VectorStore,BigQuery cloudStyle;
 ```
 
 ### 2. ⚡ Enterprise ITSM Incident & Root-Cause Analysis (RCA) Flow
 ```mermaid
 sequenceDiagram
     autonumber
-    actor System as 🖥️ Enterprise Monitoring
-    participant Gateway as 🌐 AI Agent Platform Gateway
-    participant IncidentAgent as 🤖 Incident Triaging Agent
-    participant RAG as 🔍 Vertex AI Search / RAG
-    participant RCAAgent as 🧠 RCA Agent
-    participant Engineer as 👤 HCLTech Engineer / CAB
+    actor System as Enterprise Monitoring
+    participant Gateway as AI Agent Platform Gateway
+    participant IncidentAgent as Incident Triaging Agent
+    participant RAG as Vertex AI Search / RAG
+    participant RCAAgent as RCA Agent
+    participant Engineer as HCLTech Engineer / CAB
 
     System->>Gateway: Trigger Incident Telemetry Alert
     Gateway->>IncidentAgent: Route Payload for Automated Classification
@@ -312,7 +316,7 @@ gantt
     section Academic Foundations
     SSLC Full A+ (Little Kites IT Leader) :2019-01, 2020-05
     Higher Secondary CS (97%)          :2020-06, 2022-05
-    BSc Data Science & AI @ IIT Guwahati:active, 2022-06, 2026-06
+    BSc Data Science and AI at IIT Guwahati :active, 2022-06, 2026-06
     section HCLTech Engineering
     Software Engineer (AI/ML Focus)    :active, 2023-06, 2025-06
     Senior AI Engineer                 :2025-06, 2026-12
