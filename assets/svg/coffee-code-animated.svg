@@ -1,0 +1,41 @@
+<svg fill="none" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="funBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="80" rx="12" fill="url(#funBg)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Coffee Cup Graphics -->
+  <g transform="translate(60, 48)">
+    <!-- Cup Body -->
+    <rect x="-16" y="-22" width="32" height="24" rx="4" fill="#E2E8F0"/>
+    <path d="M 16 -16 C 22 -16 22 -6 16 -6" fill="none" stroke="#E2E8F0" stroke-width="3"/>
+    
+    <!-- Rising Steam 1 -->
+    <path d="M -8 -26 Q -4 -34 -8 -42" fill="none" stroke="#00F2FE" stroke-width="2" stroke-linecap="round" opacity="0.7">
+      <animate attributeName="d" values="M -8 -26 Q -4 -34 -8 -42; M -8 -26 Q -12 -34 -8 -42; M -8 -26 Q -4 -34 -8 -42" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <!-- Rising Steam 2 -->
+    <path d="M 4 -26 Q 8 -34 4 -42" fill="none" stroke="#7C3AED" stroke-width="2" stroke-linecap="round" opacity="0.7">
+      <animate attributeName="d" values="M 4 -26 Q 8 -34 4 -42; M 4 -26 Q 0 -34 4 -42; M 4 -26 Q 8 -34 4 -42" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Fun Stats Text -->
+  <text x="120" y="36" font-family="-apple-system, sans-serif" font-size="14" font-weight="800" fill="#00F2FE">COFFEE TO CODE PIPELINE</text>
+  <text x="120" y="56" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" fill="#94A3B8">450+ Black Coffees / Year • Late Night Commits (22:00 - 03:00 IST)</text>
+
+  <!-- Code Snippet Box -->
+  <g transform="translate(700, 18)">
+    <rect width="450" height="44" rx="8" fill="#070A12" stroke="#00F2FE" stroke-width="1"/>
+    <text x="20" y="27" font-family="-apple-system, 'Fira Code', monospace" font-size="12" font-weight="600" fill="#10B981">
+      System.out.println(coffee.toCode()); <tspan fill="#38BDF8">// 100% Production</tspan>
+    </text>
+  </g>
+</svg>

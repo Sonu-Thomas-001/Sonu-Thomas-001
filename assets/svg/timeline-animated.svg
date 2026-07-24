@@ -1,0 +1,41 @@
+<svg fill="none" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="timeBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="80" rx="12" fill="url(#timeBg)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Milestone Line -->
+  <line x1="80" y1="40" x2="1120" y2="40" stroke="#1E293B" stroke-width="4"/>
+  
+  <!-- Active Progress Line Animation -->
+  <line x1="80" y1="40" x2="880" y2="40" stroke="#00F2FE" stroke-width="4" stroke-dasharray="800">
+    <animate attributeName="stroke-dashoffset" from="800" to="0" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Node 1: SSLC -->
+  <circle cx="100" cy="40" r="8" fill="#10B981"/>
+  <text x="100" y="62" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#94A3B8">SSLC Full A+</text>
+
+  <!-- Node 2: CS 97% -->
+  <circle cx="350" cy="40" r="8" fill="#3B82F6"/>
+  <text x="350" y="62" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#94A3B8">Higher Sec (97%)</text>
+
+  <!-- Node 3: IIT Guwahati -->
+  <circle cx="600" cy="40" r="9" fill="#7C3AED"/>
+  <text x="600" y="62" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#C084FC">BSc DS &amp; AI @ IITG</text>
+
+  <!-- Node 4: HCLTech -->
+  <circle cx="850" cy="40" r="10" fill="#00F2FE">
+    <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="850" y="62" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" fill="#00F2FE">Software Eng @ HCLTech</text>
+
+  <!-- Node 5: Target AI Architect -->
+  <circle cx="1100" cy="40" r="8" fill="#64748B" stroke="#00F2FE" stroke-width="2" stroke-dasharray="3,3"/>
+  <text x="1100" y="62" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#64748B">Enterprise AI Architect</text>
+</svg>

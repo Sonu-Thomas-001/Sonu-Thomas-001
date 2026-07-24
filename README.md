@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HERO HEADER BANNER -->
+<!-- HERO HEADER BANNER (ANIMATED) -->
 <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/header-banner.svg" width="100%" alt="Sonu Thomas Header Banner" />
 
 <!-- TYPING ANIMATION SUBTITLE -->
@@ -60,9 +60,17 @@
 
 ---
 
-<img src="assets/svg/wave-divider.svg" width="100%" alt="Divider Wave" />
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/wave-divider.svg" width="100%" alt="Divider Wave" />
 
 ## 📖 Introduction & Bio
+
+<!-- ANIMATED LIVE STATUS TICKER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/live-status-ticker.svg" width="100%" alt="Live Status Ticker" />
+</p>
+
+<br/>
 
 > *"Production-grade Enterprise AI is not about toy prompt demos; it is about building scalable, secure, and auditable agent infrastructure that empowers engineering teams to automate complex operational workflows safely."*
 
@@ -127,6 +135,13 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 ---
 
 ## 🛠️ Areas of Expertise
+
+<!-- ANIMATED EXPERTISE RADAR SVGs -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/expertise-animated.svg" width="100%" alt="Animated Expertise Cards" />
+</p>
+
+<br/>
 
 ```
 +-----------------------------------------------------------------------------------+
@@ -220,6 +235,13 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 ---
 
 ## 🎨 World-Class Visualizations
+
+<!-- ANIMATED ARCHITECTURE FLOW INDICATOR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/architecture-flow-animated.svg" width="100%" alt="Animated Architecture Flow" />
+</p>
+
+<br/>
 
 ### 1. 🏗️ Enterprise Multi-Agent AI Platform Architecture
 ```mermaid
@@ -360,7 +382,7 @@ gantt
 ### 🏆 GitHub Achievements & Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Sonu-Thomas-001&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true" width="100%" alt="GitHub Profile Trophies" />
 
-### 🐍 Contribution Activity Snake
+### 🐍 Contribution Activity Snake (Animated)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/output/github-contribution-grid-snake.svg">
@@ -448,6 +470,13 @@ gantt
 
 ## 📜 Certifications & Credentials
 
+<!-- ANIMATED CERTIFICATIONS STRIP -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/certifications-animated.svg" width="100%" alt="Animated Certifications Strip" />
+</p>
+
+<br/>
+
 <table width="100%">
   <tr>
     <td width="33%" align="center">
@@ -473,6 +502,13 @@ gantt
 
 ## ⏳ Career & Education Timeline
 
+<!-- ANIMATED TIMELINE PROGRESSION BAR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/timeline-animated.svg" width="100%" alt="Animated Career Timeline" />
+</p>
+
+<br/>
+
 ```
 2026+ ──► [Target Roadmap: Senior AI Engineer ➔ AI Solution Architect]
           └─ Designing scalable enterprise agent platforms & AI governance
@@ -492,6 +528,13 @@ gantt
 
 ## 🔬 Research & Currently Building
 
+<!-- ANIMATED RESEARCH LAB TICKER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/research-ticker-animated.svg" width="100%" alt="Animated Research Ticker" />
+</p>
+
+<br/>
+
 <table width="100%">
   <tr>
     <td width="25%" align="center"><b>🛠️ Building</b></td>
@@ -510,6 +553,13 @@ gantt
 ---
 
 ## ☕ Developer Culture & Fun
+
+<!-- ANIMATED COFFEE TO CODE WIDGET -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/coffee-code-animated.svg" width="100%" alt="Animated Coffee Code Widget" />
+</p>
+
+<br/>
 
 ```python
 class SonuThomas(Developer):
@@ -544,6 +594,13 @@ SonuThomas().engineering_loop()
 
 ## 📬 Contact & Connect
 
+<!-- ANIMATED CONTACT BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/contact-animated.svg" width="100%" alt="Animated Contact Banner" />
+</p>
+
+<br/>
+
 <div align="center">
 
 <p align="center">
@@ -569,7 +626,8 @@ SonuThomas().engineering_loop()
 
 <div align="center">
 
-<img src="assets/svg/wave-divider.svg" width="100%" alt="Footer Wave" />
+<!-- ANIMATED WAVE FOOTER DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/wave-divider.svg" width="100%" alt="Footer Wave" />
 
 <br/>
 

@@ -1,0 +1,75 @@
+<svg fill="none" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="expBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="expBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.6"/>
+    </linearGradient>
+    <style>
+      .exp-card { fill: #1E293B; stroke: #334155; stroke-width: 1.5; rx: 12; }
+      .exp-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; font-weight: 700; fill: #F8FAFC; }
+      .exp-sub { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 11px; font-weight: 500; fill: #94A3B8; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="120" rx="14" fill="url(#expBg)" stroke="url(#expBorder)" stroke-width="1.5"/>
+
+  <!-- Card 1: Multi-Agent Systems -->
+  <g transform="translate(20, 20)">
+    <rect width="215" height="80" class="exp-card"/>
+    <circle cx="25" cy="40" r="10" fill="#00F2FE" fill-opacity="0.2">
+      <animate attributeName="r" values="8;14;8" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25" cy="40" r="5" fill="#00F2FE"/>
+    <text x="45" y="36" class="exp-title">🤖 Multi-Agent Systems</text>
+    <text x="45" y="54" class="exp-sub">LangGraph • Vertex Builder</text>
+  </g>
+
+  <!-- Card 2: RAG & Search -->
+  <g transform="translate(255, 20)">
+    <rect width="215" height="80" class="exp-card"/>
+    <circle cx="25" cy="40" r="10" fill="#7C3AED" fill-opacity="0.2">
+      <animate attributeName="r" values="8;14;8" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25" cy="40" r="5" fill="#7C3AED"/>
+    <text x="45" y="36" class="exp-title">📚 Enterprise RAG</text>
+    <text x="45" y="54" class="exp-sub">Vertex Search • ChromaDB</text>
+  </g>
+
+  <!-- Card 3: Cloud AI & MLOps -->
+  <g transform="translate(490, 20)">
+    <rect width="215" height="80" class="exp-card"/>
+    <circle cx="25" cy="40" r="10" fill="#3B82F6" fill-opacity="0.2">
+      <animate attributeName="r" values="8;14;8" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25" cy="40" r="5" fill="#3B82F6"/>
+    <text x="45" y="36" class="exp-title">☁️ Cloud AI Infra</text>
+    <text x="45" y="54" class="exp-sub">GCP Vertex • AWS Bedrock</text>
+  </g>
+
+  <!-- Card 4: ITSM Automation -->
+  <g transform="translate(725, 20)">
+    <rect width="215" height="80" class="exp-card"/>
+    <circle cx="25" cy="40" r="10" fill="#10B981" fill-opacity="0.2">
+      <animate attributeName="r" values="8;14;8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25" cy="40" r="5" fill="#10B981"/>
+    <text x="45" y="36" class="exp-title">🛡️ ITSM Automation</text>
+    <text x="45" y="54" class="exp-sub">Incident • Change • CAB</text>
+  </g>
+
+  <!-- Card 5: Full Stack Web -->
+  <g transform="translate(960, 20)">
+    <rect width="220" height="80" class="exp-card"/>
+    <circle cx="25" cy="40" r="10" fill="#F59E0B" fill-opacity="0.2">
+      <animate attributeName="r" values="8;14;8" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25" cy="40" r="5" fill="#F59E0B"/>
+    <text x="45" y="36" class="exp-title">⚡ Modern Full Stack</text>
+    <text x="45" y="54" class="exp-sub">Next.js • React • FastAPI</text>
+  </g>
+</svg>

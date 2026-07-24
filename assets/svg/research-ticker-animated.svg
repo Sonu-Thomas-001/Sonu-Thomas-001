@@ -1,0 +1,25 @@
+<svg fill="none" viewBox="0 0 1200 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="resBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#070A12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="64" rx="12" fill="url(#resBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Radar Pulse -->
+  <g transform="translate(45, 32)">
+    <circle cx="0" cy="0" r="14" fill="#00F2FE" fill-opacity="0.15">
+      <animate attributeName="r" values="8;18;8" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.3;0;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="6" fill="#00F2FE"/>
+  </g>
+
+  <text x="75" y="38" font-family="-apple-system, sans-serif" font-size="14" font-weight="800" fill="#00F2FE">ACTIVE R&amp;D LAB:</text>
+  
+  <text x="210" y="38" font-family="-apple-system, 'Fira Code', monospace" font-size="13" font-weight="600" fill="#E2E8F0">
+    <tspan fill="#7C3AED">[Building]</tspan> Multi-Agent Consensus SDKs • <tspan fill="#3B82F6">[Reading]</tspan> LLM Formal Verification • <tspan fill="#10B981">[Researching]</tspan> Self-Healing IT Operations
+  </text>
+</svg>
