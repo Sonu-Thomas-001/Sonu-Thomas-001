@@ -1,0 +1,62 @@
+<svg fill="none" viewBox="0 0 1200 44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Laser Gradient Left -->
+    <linearGradient id="laserLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#00F2FE" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="1"/>
+    </linearGradient>
+
+    <!-- Laser Gradient Right -->
+    <linearGradient id="laserRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="1"/>
+      <stop offset="30%" stop-color="#7C3AED" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Center Diamond Glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ambient Center Glow Background -->
+  <circle cx="600" cy="22" r="30" fill="url(#centerGlow)">
+    <animate attributeName="r" values="20;35;20" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Left Laser Line -->
+  <line x1="40" y1="22" x2="580" y2="22" stroke="url(#laserLeft)" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Right Laser Line -->
+  <line x1="620" y1="22" x2="1160" y2="22" stroke="url(#laserRight)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Animated Pulse Beams (Left to Center) -->
+  <circle cx="0" cy="22" r="3" fill="#00F2FE">
+    <animate attributeName="cx" from="40" to="580" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Animated Pulse Beams (Center to Right) -->
+  <circle cx="0" cy="22" r="3" fill="#7C3AED">
+    <animate attributeName="cx" from="620" to="1160" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Center Core Diamond -->
+  <polygon points="600,10 612,22 600,34 588,22" fill="#0F172A" stroke="#00F2FE" stroke-width="2">
+    <animate attributeName="stroke" values="#00F2FE;#7C3AED;#00F2FE" dur="4s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Center Inner Gem -->
+  <circle cx="600" cy="22" r="3" fill="#00F2FE">
+    <animate attributeName="fill" values="#00F2FE;#38BDF8;#C084FC;#00F2FE" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Decorative Accent Dots -->
+  <circle cx="560" cy="22" r="2" fill="#00F2FE" opacity="0.8"/>
+  <circle cx="640" cy="22" r="2" fill="#7C3AED" opacity="0.8"/>
+</svg>

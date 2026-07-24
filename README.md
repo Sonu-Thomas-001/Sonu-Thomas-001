@@ -60,8 +60,8 @@
 
 ---
 
-<!-- ANIMATED WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/wave-divider.svg" width="100%" alt="Divider Wave" />
+<!-- ANIMATED LASER DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
 ## 📖 Introduction & Bio
 
@@ -626,8 +626,8 @@ SonuThomas().engineering_loop()
 
 <div align="center">
 
-<!-- ANIMATED WAVE FOOTER DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/wave-divider.svg" width="100%" alt="Footer Wave" />
+<!-- ANIMATED LASER FOOTER DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Footer Divider" />
 
 <br/>
 
