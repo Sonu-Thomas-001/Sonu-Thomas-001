@@ -153,28 +153,10 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 <br/>
 
-```
-+-----------------------------------------------------------------------------------+
-|                            SONU'S EXPERTISE MATRIX                                |
-+------------------------------------+----------------------------------------------+
-| DOMAIN                             | ENTERPRISE CAPABILITIES & IMPACT             |
-+------------------------------------+----------------------------------------------+
-| Enterprise AI & Multi-Agent        | Centralized agent platforms, multi-agent     |
-|                                    | consensus, Vertex AI Agent Builder, LangGraph |
-+------------------------------------+----------------------------------------------+
-| RAG & Knowledge Intelligence       | Vertex AI Search, ChromaDB, enterprise       |
-|                                    | document intelligence, hybrid vector search  |
-+------------------------------------+----------------------------------------------+
-| Enterprise ITSM Operations         | Automated Incident, Problem, RCA, Change     |
-|                                    | Control, and CAB Process AI Copilots         |
-+------------------------------------+----------------------------------------------+
-| Cloud AI & Production MLOps        | GCP (Vertex AI Studio, BigQuery, GCS),       |
-|                                    | AWS Bedrock, SageMaker, Docker, CI/CD        |
-+------------------------------------+----------------------------------------------+
-| Full Stack & Backend APIs          | Python, Java, FastAPI, Node.js, React,       |
-|                                    | Next.js, Tailwind CSS, Framer Motion         |
-+------------------------------------+----------------------------------------------+
-```
+<!-- ANIMATED EXPERTISE MATRIX CARD -->
+<p align="center">
+  <img src="./assets/svg/expertise-matrix-card.svg" width="100%" alt="Sonu's Enterprise Expertise Matrix" />
+</p>
 
 <details>
 <summary><b>Expand Detailed Capability Breakdown</b></summary>

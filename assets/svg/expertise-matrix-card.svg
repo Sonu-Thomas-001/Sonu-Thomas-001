@@ -1,0 +1,208 @@
+<svg viewBox="0 0 1200 460" width="1200" height="460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="matrixBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060911" />
+      <stop offset="50%" stop-color="#0B0F19" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="matrixHead" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+
+    <!-- Outer Border Glow -->
+    <linearGradient id="matrixBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="matrixTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <!-- Row Backgrounds -->
+    <linearGradient id="rowGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.4" />
+    </linearGradient>
+
+    <linearGradient id="rowGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#182234" stop-opacity="0.4" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect width="1200" height="460" rx="16" fill="url(#matrixBg)" stroke="url(#matrixBorder)" stroke-width="1.5"/>
+
+  <!-- Top Titlebar -->
+  <path d="M 0 16 C 0 7.163 7.163 0 16 0 L 1184 0 C 1192.837 0 1200 7.163 1200 16 L 1200 46 L 0 46 Z" fill="url(#matrixHead)" stroke="#334155" stroke-width="0.5"/>
+
+  <!-- Window Dots -->
+  <circle cx="28" cy="23" r="6" fill="#EF4444"/>
+  <circle cx="48" cy="23" r="6" fill="#F59E0B"/>
+  <circle cx="68" cy="23" r="6" fill="#10B981"/>
+
+  <!-- Header Title -->
+  <text x="100" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="800" fill="url(#matrixTitle)" letter-spacing="1">
+    ⚡ SONU'S ENTERPRISE EXPERTISE &amp; CAPABILITY MATRIX
+  </text>
+
+  <!-- Live Status Badge on Right -->
+  <g transform="translate(1080, 23)">
+    <circle cx="0" cy="0" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="10" y="4" font-family="-apple-system, monospace" font-size="11" font-weight="700" fill="#10B981">
+      ACTIVE
+    </text>
+  </g>
+
+  <!-- Table Column Headers (y=56 to y=88) -->
+  <g transform="translate(20, 56)">
+    <rect width="1160" height="32" rx="6" fill="#060911" stroke="#334155" stroke-width="0.8"/>
+    <text x="24" y="21" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="800" fill="#94A3B8" letter-spacing="1.2">
+      DOMAIN &amp; SPECIALIZATION FOCUS
+    </text>
+    <text x="380" y="21" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="800" fill="#94A3B8" letter-spacing="1.2">
+      ENTERPRISE CAPABILITIES, PRODUCTION IMPACT &amp; TECH STACK
+    </text>
+  </g>
+
+  <!-- ================= ROW 1: Multi-Agent Systems ================= -->
+  <g transform="translate(20, 96)">
+    <rect width="1160" height="66" rx="10" fill="url(#rowGrad1)" stroke="#00F2FE" stroke-opacity="0.3" stroke-width="1"/>
+    
+    <!-- Left Column: Domain & Icon -->
+    <g transform="translate(20, 24)">
+      <circle cx="0" cy="10" r="4" fill="#00F2FE"/>
+      <text x="14" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
+        Enterprise AI &amp; Multi-Agent
+      </text>
+      <text x="14" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#00F2FE">
+        LangGraph • Vertex Builder • Autogen
+      </text>
+    </g>
+
+    <!-- Right Column: Details & Impact -->
+    <g transform="translate(380, 24)">
+      <text x="0" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#38BDF8">
+        Centralized Agent Platforms &amp; Dynamic Workflow Routing
+      </text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#94A3B8">
+        Multi-agent consensus, asynchronous tool calling, agent governance, and full-stack observability.
+      </text>
+    </g>
+  </g>
+
+  <!-- ================= ROW 2: RAG & Search ================= -->
+  <g transform="translate(20, 168)">
+    <rect width="1160" height="66" rx="10" fill="url(#rowGrad2)" stroke="#818CF8" stroke-opacity="0.3" stroke-width="1"/>
+    
+    <!-- Left Column: Domain -->
+    <g transform="translate(20, 24)">
+      <circle cx="0" cy="10" r="4" fill="#818CF8"/>
+      <text x="14" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
+        RAG &amp; Knowledge Intelligence
+      </text>
+      <text x="14" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#818CF8">
+        Vertex AI Search • ChromaDB • Reranking
+      </text>
+    </g>
+
+    <!-- Right Column: Details & Impact -->
+    <g transform="translate(380, 24)">
+      <text x="0" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#C084FC">
+        Context-Grounded Document Retrieval &amp; Semantic Search
+      </text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#94A3B8">
+        Enterprise document intelligence, hybrid vector search, context synthesis, and grounded generation.
+      </text>
+    </g>
+  </g>
+
+  <!-- ================= ROW 3: ITSM Operations ================= -->
+  <g transform="translate(20, 240)">
+    <rect width="1160" height="66" rx="10" fill="url(#rowGrad1)" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
+    
+    <!-- Left Column: Domain -->
+    <g transform="translate(20, 24)">
+      <circle cx="0" cy="10" r="4" fill="#10B981"/>
+      <text x="14" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
+        Enterprise ITSM Operations
+      </text>
+      <text x="14" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#10B981">
+        Incident Automation • Problem • CAB
+      </text>
+    </g>
+
+    <!-- Right Column: Details & Impact -->
+    <g transform="translate(380, 24)">
+      <text x="0" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#34D399">
+        Automated Incident Triaging, Root-Cause Analysis (RCA) &amp; Change Control
+      </text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#94A3B8">
+        Reduces MTTR by 40%, automates ITIL change request verification, and streamlines CAB approval workflows.
+      </text>
+    </g>
+  </g>
+
+  <!-- ================= ROW 4: Cloud AI & MLOps ================= -->
+  <g transform="translate(20, 312)">
+    <rect width="1160" height="66" rx="10" fill="url(#rowGrad2)" stroke="#F59E0B" stroke-opacity="0.3" stroke-width="1"/>
+    
+    <!-- Left Column: Domain -->
+    <g transform="translate(20, 24)">
+      <circle cx="0" cy="10" r="4" fill="#F59E0B"/>
+      <text x="14" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
+        Cloud AI &amp; Production MLOps
+      </text>
+      <text x="14" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#F59E0B">
+        GCP Vertex AI • AWS Bedrock • Docker
+      </text>
+    </g>
+
+    <!-- Right Column: Details & Impact -->
+    <g transform="translate(380, 24)">
+      <text x="0" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FBBF24">
+        Scalable Enterprise Cloud Infrastructure &amp; Security Guardrails
+      </text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#94A3B8">
+        Google Cloud CDL/ACE, BigQuery analytics, model evaluation pipelines, containerization &amp; CI/CD.
+      </text>
+    </g>
+  </g>
+
+  <!-- ================= ROW 5: Full Stack & APIs ================= -->
+  <g transform="translate(20, 384)">
+    <rect width="1160" height="66" rx="10" fill="url(#rowGrad1)" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
+    
+    <!-- Left Column: Domain -->
+    <g transform="translate(20, 24)">
+      <circle cx="0" cy="10" r="4" fill="#38BDF8"/>
+      <text x="14" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700" fill="#F8FAFC">
+        Full Stack &amp; Backend APIs
+      </text>
+      <text x="14" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', monospace" font-size="10.5" font-weight="600" fill="#38BDF8">
+        Python • Java • FastAPI • React • Next.js
+      </text>
+    </g>
+
+    <!-- Right Column: Details & Impact -->
+    <g transform="translate(380, 24)">
+      <text x="0" y="8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#38BDF8">
+        High-Throughput Microservices &amp; Reactive UI Dashboards
+      </text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500" fill="#94A3B8">
+        Node.js, Express, Tailwind CSS, SQL, Oracle DB, and real-time streaming WebSocket endpoints.
+      </text>
+    </g>
+  </g>
+</svg>
