@@ -183,47 +183,63 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 <br/>
 
-### Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,sql,js,ts,html,css,cpp&perline=8" alt="Languages" />
-  </a>
-</p>
-
-### AI, LLM & Agent Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge&logo=git&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_Agent_Builder-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-### Frontend & Backend Engineering
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,bootstrap&perline=7" alt="Frameworks" />
-  </a>
-</p>
-
-### Cloud Platforms & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github,linux&perline=6" alt="Cloud & DevOps" />
-  </a>
-</p>
-
-### Databases & Data Stores
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite&perline=4" alt="Databases" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_BigQuery-667EEA?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI, LLM &amp; Agent Frameworks</h3>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=flat-square&logo=git&logoColor=00F2FE" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+        <img src="https://img.shields.io/badge/Vertex_Agent_Builder-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Agent Builder" />
+        <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+        <img src="https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Claude_3.5_Sonnet-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+        <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Programming Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Frontend &amp; Backend Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud, DevOps &amp; Databases</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/BigQuery-667EEA?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ANIMATED NEURAL MESH DIVIDER -->
 <img src="./assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
