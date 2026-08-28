@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING SUBTITLE -->
 <a href="https://github.com/Sonu-Thomas-001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Production+AI+Engineering+%E2%80%A2+LLM+Governance;Software+Engineer+(AI%2FML)+%40+HCLTech;B.Sc.+(Honours)+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Production+AI+Engineering+%E2%80%A2+LLM+Governance;Software+Engineer+AI%2FML+%40+HCLTech;BSc+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing Animation" />
 </a>
 
 <br/><br/>

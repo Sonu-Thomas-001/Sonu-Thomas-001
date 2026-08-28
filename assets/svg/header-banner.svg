@@ -1,125 +1,117 @@
-<svg fill="none" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 320" width="1200" height="320" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Deep Obsidian Tech Background Gradient -->
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060911" />
-      <stop offset="35%" stop-color="#0B0F19" />
-      <stop offset="70%" stop-color="#0F172A" />
+      <stop offset="40%" stop-color="#0B0F19" />
+      <stop offset="80%" stop-color="#0F172A" />
       <stop offset="100%" stop-color="#070A12" />
     </linearGradient>
 
-    <!-- Glowing Ambient Radial Lights -->
-    <radialGradient id="cyanOrb" cx="12%" cy="25%" r="45%">
-      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.18">
-        <animate attributeName="stop-opacity" values="0.18;0.08;0.18" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0" />
-    </radialGradient>
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.8" />
+    </linearGradient>
 
-    <radialGradient id="purpleOrb" cx="88%" cy="75%" r="50%">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.22">
-        <animate attributeName="stop-opacity" values="0.12;0.25;0.12" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
-    </radialGradient>
-
-    <radialGradient id="centerAura" cx="50%" cy="50%" r="40%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.08">
-        <animate attributeName="stop-opacity" values="0.05;0.12;0.05" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
-    </radialGradient>
-
-    <!-- Luxury Title Gradient -->
+    <!-- Title Gradient -->
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8" />
       <stop offset="30%" stop-color="#00F2FE" />
-      <stop offset="60%" stop-color="#818CF8" />
+      <stop offset="70%" stop-color="#818CF8" />
       <stop offset="100%" stop-color="#C084FC" />
     </linearGradient>
 
-    <!-- Subtitle Glow Gradient -->
-    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="100%" stop-color="#818CF8" />
+    <!-- Subtitle Pill Gradient -->
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.6" />
     </linearGradient>
 
-    <!-- Outer Card Border Glow -->
-    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.7" />
-      <stop offset="40%" stop-color="#38BDF8" stop-opacity="0.2" />
-      <stop offset="70%" stop-color="#7C3AED" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0.8" />
-    </linearGradient>
+    <!-- Radial Ambient Lights -->
+    <radialGradient id="cyanLight" cx="15%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0" />
+    </radialGradient>
 
-    <!-- Pill Border Gradient -->
-    <linearGradient id="pillBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.5" />
-    </linearGradient>
-
-    <!-- Sleek Tech Grid Pattern -->
-    <pattern id="techGrid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#38BDF8" stroke-opacity="0.045" stroke-width="1"/>
-      <circle cx="36" cy="36" r="1" fill="#00F2FE" fill-opacity="0.15"/>
-    </pattern>
+    <radialGradient id="purpleLight" cx="85%" cy="70%" r="45%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
   </defs>
 
   <!-- Base Card Container -->
-  <rect width="1200" height="320" rx="18" fill="url(#bgGrad)" stroke="url(#cardBorder)" stroke-width="1.5"/>
+  <rect width="1200" height="320" rx="18" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
 
-  <!-- Subtle Tech Grid -->
-  <rect width="1200" height="320" rx="18" fill="url(#techGrid)"/>
+  <!-- Ambient Light Backdrops -->
+  <rect width="1200" height="320" rx="18" fill="url(#cyanLight)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#purpleLight)"/>
 
-  <!-- Ambient Light Layers -->
-  <rect width="1200" height="320" rx="18" fill="url(#cyanOrb)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#purpleOrb)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#centerAura)"/>
+  <!-- Clean Grid Accent Lines (Camo-Safe) -->
+  <g stroke="#38BDF8" stroke-opacity="0.06" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+  </g>
 
-  <!-- Corner Ambient Constellation Nodes (Away from text) -->
-  <!-- Left Side Constellation -->
-  <path d="M 40 80 L 120 50 L 160 110 L 80 140 Z" fill="none" stroke="#00F2FE" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="40" cy="80" r="3" fill="#00F2FE" fill-opacity="0.4"/>
-  <circle cx="120" cy="50" r="3.5" fill="#38BDF8">
-    <animate attributeName="fill-opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  <!-- Left Side Constellation Nodes -->
+  <g stroke="#00F2FE" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="4,4">
+    <line x1="60" y1="90" x2="140" y2="50"/>
+    <line x1="140" y1="50" x2="180" y2="120"/>
+    <line x1="180" y1="120" x2="90" y2="150"/>
+  </g>
+  <circle cx="60" cy="90" r="3" fill="#00F2FE" opacity="0.6"/>
+  <circle cx="140" cy="50" r="4" fill="#38BDF8">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="160" cy="110" r="2.5" fill="#818CF8" fill-opacity="0.5"/>
-  <circle cx="80" cy="140" r="3" fill="#00F2FE" fill-opacity="0.3"/>
+  <circle cx="180" cy="120" r="3" fill="#818CF8" opacity="0.7"/>
+  <circle cx="90" cy="150" r="3.5" fill="#00F2FE" opacity="0.5"/>
 
-  <!-- Right Side Constellation -->
-  <path d="M 1160 240 L 1080 270 L 1040 210 L 1120 180 Z" fill="none" stroke="#7C3AED" stroke-opacity="0.15" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="1160" cy="240" r="3" fill="#C084FC" fill-opacity="0.4"/>
-  <circle cx="1080" cy="270" r="3.5" fill="#7C3AED">
-    <animate attributeName="fill-opacity" values="0.3;0.9;0.3" dur="3.5s" repeatCount="indefinite"/>
+  <!-- Right Side Constellation Nodes -->
+  <g stroke="#7C3AED" stroke-opacity="0.3" stroke-width="1" stroke-dasharray="4,4">
+    <line x1="1140" y1="230" x2="1060" y2="260"/>
+    <line x1="1060" y1="260" x2="1020" y2="190"/>
+    <line x1="1020" y1="190" x2="1100" y2="160"/>
+  </g>
+  <circle cx="1140" cy="230" r="3.5" fill="#C084FC" opacity="0.6"/>
+  <circle cx="1060" cy="260" r="4" fill="#7C3AED">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1040" cy="210" r="2.5" fill="#818CF8" fill-opacity="0.5"/>
-  <circle cx="1120" cy="180" r="3" fill="#38BDF8" fill-opacity="0.3"/>
+  <circle cx="1020" cy="190" r="3" fill="#818CF8" opacity="0.7"/>
+  <circle cx="1100" cy="160" r="3.5" fill="#38BDF8" opacity="0.5"/>
 
-  <!-- ================= HEADER CHIP / STATUS ================= -->
+  <!-- ================= TOP STATUS BADGE ================= -->
   <g transform="translate(600, 48)">
-    <rect x="-195" y="-14" width="390" height="28" rx="14" fill="#0F172A" fill-opacity="0.75" stroke="url(#pillBorder)" stroke-width="1"/>
+    <rect x="-210" y="-14" width="420" height="28" rx="14" fill="#0F172A" fill-opacity="0.85" stroke="url(#pillGrad)" stroke-width="1"/>
     
-    <!-- Pulsing Live Dot -->
-    <circle cx="-170" cy="0" r="6" fill="#10B981" fill-opacity="0.3">
+    <!-- Pulsing Live Green Indicator -->
+    <circle cx="-185" cy="0" r="6" fill="#10B981" fill-opacity="0.25">
       <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.4;0;0.4" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="-170" cy="0" r="3.5" fill="#10B981"/>
+    <circle cx="-185" cy="0" r="3.5" fill="#10B981"/>
 
     <!-- Status Text -->
-    <text x="-154" y="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#94A3B8">
+    <text x="-168" y="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#94A3B8">
       ENTERPRISE AI &amp; MULTI-AGENT ARCHITECTURE
     </text>
   </g>
 
   <!-- ================= MAIN NAME TITLE ================= -->
-  <text x="600" y="128" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="56" font-weight="900" letter-spacing="7" fill="url(#titleGrad)">
+  <text x="600" y="128" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="900" letter-spacing="7" fill="url(#titleGrad)">
     SONU THOMAS
   </text>
 
-  <!-- ================= ROLES & CREDENTIALS ================= -->
+  <!-- ================= CREDENTIALS BAR ================= -->
   <g transform="translate(600, 172)">
-    <text text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="16" font-weight="600" letter-spacing="0.8" fill="#E2E8F0">
+    <text text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600" letter-spacing="0.5">
       <tspan fill="#38BDF8" font-weight="700">Software Engineer (AI/ML)</tspan>
       <tspan fill="#64748B"> @ </tspan>
       <tspan fill="#F8FAFC" font-weight="700">HCLTech</tspan>
@@ -130,37 +122,37 @@
     </text>
   </g>
 
-  <!-- ================= PILL CARDS / CORE DOMAINS ================= -->
+  <!-- ================= DOMAIN CHIPS ================= -->
   <g transform="translate(600, 240)">
     <!-- Pill 1: Multi-Agent Systems -->
     <g transform="translate(-405, 0)">
-      <rect x="0" y="0" width="190" height="34" rx="17" fill="#0F172A" fill-opacity="0.8" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1"/>
-      <text x="95" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="12" font-weight="600" fill="#38BDF8" letter-spacing="0.5">
-        🤖 Multi-Agent Systems
+      <rect x="0" y="0" width="190" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1.2"/>
+      <text x="95" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#38BDF8" letter-spacing="0.5">
+        Multi-Agent Systems
       </text>
     </g>
 
     <!-- Pill 2: Enterprise RAG -->
     <g transform="translate(-195, 0)">
-      <rect x="0" y="0" width="180" height="34" rx="17" fill="#0F172A" fill-opacity="0.8" stroke="#00F2FE" stroke-opacity="0.35" stroke-width="1"/>
-      <text x="90" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="12" font-weight="600" fill="#00F2FE" letter-spacing="0.5">
-        🔍 Enterprise RAG
+      <rect x="0" y="0" width="180" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#00F2FE" stroke-opacity="0.4" stroke-width="1.2"/>
+      <text x="90" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#00F2FE" letter-spacing="0.5">
+        Enterprise RAG
       </text>
     </g>
 
     <!-- Pill 3: LLM Governance -->
     <g transform="translate(5, 0)">
-      <rect x="0" y="0" width="185" height="34" rx="17" fill="#0F172A" fill-opacity="0.8" stroke="#818CF8" stroke-opacity="0.35" stroke-width="1"/>
-      <text x="92" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="12" font-weight="600" fill="#818CF8" letter-spacing="0.5">
-        🛡️ LLM Governance
+      <rect x="0" y="0" width="185" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#818CF8" stroke-opacity="0.4" stroke-width="1.2"/>
+      <text x="92" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#818CF8" letter-spacing="0.5">
+        LLM Governance
       </text>
     </g>
 
     <!-- Pill 4: Cloud AI & MLOps -->
     <g transform="translate(210, 0)">
-      <rect x="0" y="0" width="195" height="34" rx="17" fill="#0F172A" fill-opacity="0.8" stroke="#C084FC" stroke-opacity="0.35" stroke-width="1"/>
-      <text x="97" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="12" font-weight="600" fill="#C084FC" letter-spacing="0.5">
-        ☁️ Cloud AI &amp; MLOps
+      <rect x="0" y="0" width="195" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#C084FC" stroke-opacity="0.4" stroke-width="1.2"/>
+      <text x="97" y="21" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#C084FC" letter-spacing="0.5">
+        Cloud AI &amp; MLOps
       </text>
     </g>
   </g>
