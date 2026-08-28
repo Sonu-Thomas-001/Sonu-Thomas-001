@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HERO HEADER BANNER (ANIMATED SVG) -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/header-banner.svg" width="100%" alt="Sonu Thomas Header Banner" />
+<img src="./assets/svg/header-banner.svg" width="100%" alt="Sonu Thomas Header Banner" />
 
 <br/>
 
 <!-- DYNAMIC TYPING SUBTITLE -->
 <a href="https://github.com/Sonu-Thomas-001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=36&lines=Architecting+Enterprise+AI+Agent+Platforms;Production+AI+Engineering+%E2%80%A2+LLM+Governance+%E2%80%A2+RAG;Software+Engineer+(AI%2FML)+%40+HCLTech+%E2%80%A2+IIT+Guwahati;Designing+Scalable%2C+Secure+%26+Autonomous+AI+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Production+AI+Engineering+%E2%80%A2+LLM+Governance;Software+Engineer+(AI%2FML)+%40+HCLTech;B.Sc.+(Honours)+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing Animation" />
 </a>
 
 <br/><br/>
@@ -62,13 +62,13 @@
 <br/>
 
 <!-- ANIMATED LASER DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
+<img src="./assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
 ## Introduction & Bio
 
 <!-- ANIMATED LIVE STATUS TICKER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/live-status-ticker.svg" width="100%" alt="Live Status Ticker" />
+  <img src="./assets/svg/live-status-ticker.svg" width="100%" alt="Live Status Ticker" />
 </p>
 
 <br/>
@@ -88,13 +88,13 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 <!-- ANIMATED METRICS & TELEMETRY DASHBOARD -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/metrics-dashboard-animated.svg" width="100%" alt="Enterprise Impact & Telemetry Dashboard" />
+  <img src="./assets/svg/metrics-dashboard-animated.svg" width="100%" alt="Enterprise Impact & Telemetry Dashboard" />
 </p>
 
 <br/>
 
 <!-- ANIMATED NEURAL MESH DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
+<img src="./assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## About Me & Profile Grid
 
@@ -142,13 +142,13 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 </table>
 
 <!-- ANIMATED LASER DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
+<img src="./assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
 ## Areas of Expertise
 
 <!-- ANIMATED EXPERTISE RADAR SVGs -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/expertise-animated.svg" width="100%" alt="Animated Expertise Cards" />
+  <img src="./assets/svg/expertise-animated.svg" width="100%" alt="Animated Expertise Cards" />
 </p>
 
 <br/>
@@ -190,13 +190,13 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 </details>
 
 <!-- ANIMATED NEURAL MESH DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
+<img src="./assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Tech Stack & Ecosystem
 
 <!-- ANIMATED TECH MARQUEE BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/tech-stack-marquee.svg" width="100%" alt="Animated Tech Stack Marquee" />
+  <img src="./assets/svg/tech-stack-marquee.svg" width="100%" alt="Animated Tech Stack Marquee" />
 </p>
 
 <br/>
@@ -244,18 +244,18 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 </p>
 
 <!-- ANIMATED NEURAL MESH DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
+<img src="./assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Architecture & System Visualizations
 
 <!-- ANIMATED MULTI-AGENT COLLABORATION PROTOCOL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/agent-mesh-animated.svg" width="100%" alt="Enterprise Multi-Agent Collaboration Protocol" />
+  <img src="./assets/svg/agent-mesh-animated.svg" width="100%" alt="Enterprise Multi-Agent Collaboration Protocol" />
 </p>
 
 <!-- ANIMATED ARCHITECTURE FLOW INDICATOR -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/architecture-flow-animated.svg" width="100%" alt="Animated Architecture Flow" />
+  <img src="./assets/svg/architecture-flow-animated.svg" width="100%" alt="Animated Architecture Flow" />
 </p>
 
 <br/>
@@ -378,12 +378,12 @@ gantt
 ### GitHub Profile Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/github-stats.svg" width="49%" alt="GitHub Overall Stats" />
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/top-languages.svg" width="49%" alt="Top Languages" />
+  <img src="./assets/svg/github-stats.svg" width="49%" alt="GitHub Overall Stats" />
+  <img src="./assets/svg/top-languages.svg" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/streak-stats.svg" width="49%" alt="GitHub Streak Stats" />
+  <img src="./assets/svg/streak-stats.svg" width="49%" alt="GitHub Streak Stats" />
   <a href="https://github.com/Sonu-Thomas-001">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Thomas-001&theme=react-dark&bg_color=0F172A&hide_border=false&border_radius=10&color=00F2FE&line=00F2FE&point=7C3AED" width="49%" alt="Activity Graph" />
   </a>
@@ -391,7 +391,7 @@ gantt
 
 ### GitHub Achievements & Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/github-trophies.svg" width="100%" alt="GitHub Profile Trophies" />
+  <img src="./assets/svg/github-trophies.svg" width="100%" alt="GitHub Profile Trophies" />
 </p>
 
 ### Contribution Activity Snake
@@ -404,7 +404,7 @@ gantt
 </div>
 
 <!-- ANIMATED NEURAL MESH DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
+<img src="./assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Featured Enterprise Projects
 
@@ -480,13 +480,13 @@ gantt
 </table>
 
 <!-- ANIMATED LASER DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
+<img src="./assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
 ## Certifications & Credentials
 
 <!-- ANIMATED CERTIFICATIONS STRIP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/certifications-animated.svg" width="100%" alt="Animated Certifications Strip" />
+  <img src="./assets/svg/certifications-animated.svg" width="100%" alt="Animated Certifications Strip" />
 </p>
 
 <br/>
@@ -513,13 +513,13 @@ gantt
 </table>
 
 <!-- ANIMATED NEURAL MESH DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
+<img src="./assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Career & Education Timeline
 
 <!-- ANIMATED TIMELINE PROGRESSION BAR -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/timeline-animated.svg" width="100%" alt="Animated Career Timeline" />
+  <img src="./assets/svg/timeline-animated.svg" width="100%" alt="Animated Career Timeline" />
 </p>
 
 <br/>
@@ -545,7 +545,7 @@ gantt
 
 <!-- ANIMATED RESEARCH LAB TICKER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/research-ticker-animated.svg" width="100%" alt="Animated Research Ticker" />
+  <img src="./assets/svg/research-ticker-animated.svg" width="100%" alt="Animated Research Ticker" />
 </p>
 
 <br/>
@@ -571,12 +571,12 @@ gantt
 
 <!-- ANIMATED INTERACTIVE IDE TERMINAL CARD -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/interactive-terminal-card.svg" width="100%" alt="Interactive Python IDE Terminal Card" />
+  <img src="./assets/svg/interactive-terminal-card.svg" width="100%" alt="Interactive Python IDE Terminal Card" />
 </p>
 
 <!-- ANIMATED COFFEE TO CODE WIDGET -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/coffee-code-animated.svg" width="100%" alt="Animated Coffee Code Widget" />
+  <img src="./assets/svg/coffee-code-animated.svg" width="100%" alt="Animated Coffee Code Widget" />
 </p>
 
 <br/>
@@ -595,7 +595,7 @@ gantt
 
 <!-- ANIMATED CONTACT BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/contact-animated.svg" width="100%" alt="Animated Contact Banner" />
+  <img src="./assets/svg/contact-animated.svg" width="100%" alt="Animated Contact Banner" />
 </p>
 
 <br/>
@@ -626,7 +626,7 @@ gantt
 <div align="center">
 
 <!-- ANIMATED LASER FOOTER DIVIDER -->
-<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Footer Divider" />
+<img src="./assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Footer Divider" />
 
 <br/>
 
