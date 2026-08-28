@@ -3,57 +3,58 @@
 <!-- HERO HEADER BANNER (ANIMATED SVG) -->
 <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/header-banner.svg" width="100%" alt="Sonu Thomas Header Banner" />
 
-<!-- TYPING ANIMATION SUBTITLE -->
+<br/>
+
+<!-- DYNAMIC TYPING SUBTITLE -->
 <a href="https://github.com/Sonu-Thomas-001">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Platforms+%26+Multi-Agent+Systems;Production+AI+Engineering+%E2%80%A2+LLM+Governance+%E2%80%A2+Cloud+AI;Software+Engineer+(AI%2FML)+%40+HCLTech+%E2%80%A2+HCLTech+Brand+Ambassador;BSc+(Honours)+Data+Science+%26+AI+%40+IIT+Guwahati" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=36&lines=Architecting+Enterprise+AI+Agent+Platforms;Production+AI+Engineering+%E2%80%A2+LLM+Governance+%E2%80%A2+RAG;Software+Engineer+(AI%2FML)+%40+HCLTech+%E2%80%A2+IIT+Guwahati;Designing+Scalable%2C+Secure+%26+Autonomous+AI+Systems" alt="Typing Animation" />
 </a>
 
 <br/><br/>
 
-<!-- DYNAMIC BADGES & COUNTERS -->
+<!-- KEY CREDENTIALS & SIGNALS -->
 <p align="center">
   <a href="https://linkedin.com/in/sonu-thomas">
-    <img src="https://img.shields.io/badge/LINKEDIN-6%2C000%2B_FOLLOWERS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
+    <img src="https://img.shields.io/badge/LinkedIn-6%2C000%2B_Followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Followers" />
   </a>
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://img.shields.io/badge/EMPLOYER-HCLTech-00569B?style=for-the-badge&logo=hcl&logoColor=white" alt="HCLTech" />
+  <a href="https://www.hcltech.com">
+    <img src="https://img.shields.io/badge/HCLTech-Software_Engineer_(AI%2FML)-00569B?style=flat-square&logo=hcl&logoColor=white" alt="HCLTech Role" />
   </a>
   <a href="https://iitg.ac.in">
-    <img src="https://img.shields.io/badge/IIT_Guwahati-BSc_DS_%26_AI-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="IIT Guwahati" />
+    <img src="https://img.shields.io/badge/IIT_Guwahati-B.Sc._(Hons)_DS_%26_AI-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" alt="IIT Guwahati" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=Sonu-Thomas-001&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=Sonu-Thomas-001&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://www.google.com/maps/place/Kannur,+Kerala">
+    <img src="https://img.shields.io/badge/Location-Kannur%2C_India-059669?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
 </p>
 
-<!-- SOCIAL & CTA BUTTONS -->
+<!-- ACTION & CONNECT BUTTONS -->
 <p align="center">
   <a href="https://linkedin.com/in/sonu-thomas">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sonuthomas.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Sonu-Thomas-001/Sonu-Thomas-001/issues/new">
-    <img src="https://img.shields.io/badge/Connect_With_Me-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Connect" />
+    <img src="https://img.shields.io/badge/Start_Discussion-181717?style=flat-square&logo=github&logoColor=white" alt="Discussion" />
+  </a>
+  <a href="#featured-enterprise-projects">
+    <img src="https://img.shields.io/badge/Featured_Projects-00F2FE?style=flat-square&logo=git&logoColor=black" alt="Featured Projects" />
   </a>
 </p>
 
-<!-- QUICK NAVIGATION BAR -->
+<!-- QUICK NAVIGATION TOOLBAR -->
 <p align="center">
-  <b><a href="#introduction--bio">About</a></b> •
-  <b><a href="#areas-of-expertise">Expertise</a></b> •
-  <b><a href="#tech-stack--ecosystem">Tech Stack</a></b> •
-  <b><a href="#architecture--system-visualizations">Architecture</a></b> •
-  <b><a href="#live-dashboards--analytics">Analytics</a></b> •
-  <b><a href="#featured-enterprise-projects">Projects</a></b> •
-  <b><a href="#certifications--credentials">Certifications</a></b> •
-  <b><a href="#career--education-timeline">Timeline</a></b> •
-  <b><a href="#research--currently-building">Research</a></b> •
-  <b><a href="#contact--connect">Contact</a></b>
+  <a href="#introduction--bio"><img src="https://img.shields.io/badge/%E2%9C%A8_About-0F172A?style=flat-square" alt="About" /></a>
+  <a href="#areas-of-expertise"><img src="https://img.shields.io/badge/%E2%9A%A1_Expertise-0F172A?style=flat-square" alt="Expertise" /></a>
+  <a href="#tech-stack--ecosystem"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Tech_Stack-0F172A?style=flat-square" alt="Tech Stack" /></a>
+  <a href="#architecture--system-visualizations"><img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Architecture-0F172A?style=flat-square" alt="Architecture" /></a>
+  <a href="#live-dashboards--analytics"><img src="https://img.shields.io/badge/%F0%9F%93%8A_Analytics-0F172A?style=flat-square" alt="Analytics" /></a>
+  <a href="#featured-enterprise-projects"><img src="https://img.shields.io/badge/%F0%9F%92%BC_Projects-0F172A?style=flat-square" alt="Projects" /></a>
+  <a href="#certifications--credentials"><img src="https://img.shields.io/badge/%F0%9F%93%9C_Credentials-0F172A?style=flat-square" alt="Certifications" /></a>
+  <a href="#career--education-timeline"><img src="https://img.shields.io/badge/%E2%8C%9B_Timeline-0F172A?style=flat-square" alt="Timeline" /></a>
+  <a href="#contact--connect"><img src="https://img.shields.io/badge/%F0%9F%93%AC_Contact-0F172A?style=flat-square" alt="Contact" /></a>
 </p>
 
 </div>
@@ -475,18 +476,18 @@ gantt
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Google_Cloud-CDL_%26_ACE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Google_Cloud-CDL_%26_ACE-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /><br/><br/>
       <b>Google Cloud Certified</b><br/>
       Digital Leader (CDL) & Associate Cloud Engineer (ACE)<br/>
       <i>30+ Google Cloud Skill Badges</i>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/AWS-3x_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-3x_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /><br/><br/>
       <b>Amazon Web Services</b><br/>
       3x AWS Certified Practitioner & AI Specialist
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/IIT_Guwahati-BSc_DS_%26_AI-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/IIT_Guwahati-BSc_DS_%26_AI-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" /><br/><br/>
       <b>IIT Guwahati</b><br/>
       B.Sc. (Honours) Data Science & Artificial Intelligence
     </td>
@@ -603,16 +604,16 @@ SonuThomas().engineering_loop()
 </p>
 
 <a href="https://linkedin.com/in/sonu-thomas">
-  <img src="https://img.shields.io/badge/LinkedIn-Sonu_Thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Sonu_Thomas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sonuthomas.ai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sonuthomas.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-sonuthomas.ai@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Sonu-Thomas-001">
-  <img src="https://img.shields.io/badge/GitHub-Sonu--Thomas--001-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Sonu--Thomas--001-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/Sonu-Thomas-001/Sonu-Thomas-001/issues/new">
-  <img src="https://img.shields.io/badge/Open_Issue-Start_Discussion-00F2FE?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Start_Discussion-Open_Issue-00F2FE?style=flat-square&logo=github&logoColor=black" />
 </a>
 
 </div>
