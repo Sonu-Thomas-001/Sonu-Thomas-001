@@ -59,7 +59,7 @@
 
 </div>
 
----
+<br/>
 
 <!-- ANIMATED LASER DIVIDER -->
 <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
@@ -86,7 +86,15 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 * <img src="https://img.shields.io/badge/-ITSM_Operations-10B981?style=flat-square&logo=shield&logoColor=white" /> **Enterprise Operations & ITSM Alignment**: Integrating AI capabilities directly into Incident Management, Problem Resolution, Change Management, and CAB workflows.
 * <img src="https://img.shields.io/badge/-Brand_Ambassador-FF9900?style=flat-square&logo=star&logoColor=white" /> **HCLTech Brand Ambassador & AI Club Core Team**: Leading community events, technical workshops, and developer initiatives across HCLTech.
 
----
+<!-- ANIMATED METRICS & TELEMETRY DASHBOARD -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/metrics-dashboard-animated.svg" width="100%" alt="Enterprise Impact & Telemetry Dashboard" />
+</p>
+
+<br/>
+
+<!-- ANIMATED NEURAL MESH DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## About Me & Profile Grid
 
@@ -133,7 +141,8 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
   </tr>
 </table>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
 ## Areas of Expertise
 
@@ -180,7 +189,8 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
 
 </details>
 
----
+<!-- ANIMATED NEURAL MESH DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Tech Stack & Ecosystem
 
@@ -233,9 +243,15 @@ My core focus lies in **Enterprise AI Architecture**, **Agentic AI**, **Multi-Ag
   <img src="https://img.shields.io/badge/Google_BigQuery-667EEA?style=for-the-badge&logo=googlebigquery&logoColor=white" />
 </p>
 
----
+<!-- ANIMATED NEURAL MESH DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Architecture & System Visualizations
+
+<!-- ANIMATED MULTI-AGENT COLLABORATION PROTOCOL -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/agent-mesh-animated.svg" width="100%" alt="Enterprise Multi-Agent Collaboration Protocol" />
+</p>
 
 <!-- ANIMATED ARCHITECTURE FLOW INDICATOR -->
 <p align="center">
@@ -387,7 +403,8 @@ gantt
 
 </div>
 
----
+<!-- ANIMATED NEURAL MESH DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Featured Enterprise Projects
 
@@ -462,7 +479,8 @@ gantt
   </tr>
 </table>
 
----
+<!-- ANIMATED LASER DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/laser-divider.svg" width="100%" alt="Quantum Laser Divider" />
 
 ## Certifications & Credentials
 
@@ -494,7 +512,8 @@ gantt
   </tr>
 </table>
 
----
+<!-- ANIMATED NEURAL MESH DIVIDER -->
+<img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/neural-mesh-divider.svg" width="100%" alt="Neural Mesh Divider" />
 
 ## Career & Education Timeline
 
@@ -550,33 +569,17 @@ gantt
 
 ## Developer Culture & Engineering Mindset
 
+<!-- ANIMATED INTERACTIVE IDE TERMINAL CARD -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/interactive-terminal-card.svg" width="100%" alt="Interactive Python IDE Terminal Card" />
+</p>
+
 <!-- ANIMATED COFFEE TO CODE WIDGET -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sonu-Thomas-001/Sonu-Thomas-001/main/assets/svg/coffee-code-animated.svg" width="100%" alt="Animated Coffee Code Widget" />
 </p>
 
 <br/>
-
-```python
-class SonuThomas(Developer):
-    def __init__(self):
-        self.name = "Sonu Thomas"
-        self.role = "Software Engineer (AI/ML) @ HCLTech"
-        self.education = "BSc Data Science & AI @ IIT Guwahati"
-        self.location = "Kannur, Kerala, India"
-        self.linkedin_followers = "6,000+"
-        self.philosophy = "Production-ready implementations over short-lived demos."
-
-    def engineering_loop(self):
-        while True:
-            self.design_enterprise_architecture()
-            self.build_agentic_systems()
-            self.ensure_security_and_governance()
-            self.empower_engineering_teams()
-
-# Execute Career Loop
-SonuThomas().engineering_loop()
-```
 
 <div align="center">
 

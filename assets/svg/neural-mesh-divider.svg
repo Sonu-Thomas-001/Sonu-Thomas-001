@@ -1,0 +1,72 @@
+<svg fill="none" viewBox="0 0 1200 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="neuralGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00F2FE" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#C084FC" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Center Connecting Synapse Line -->
+  <line x1="80" y1="24" x2="1120" y2="24" stroke="url(#neuralGrad)" stroke-width="1.8" stroke-dasharray="8,6"/>
+
+  <!-- Synapse Nodes along the line -->
+  <g transform="translate(300, 24)">
+    <circle cx="0" cy="0" r="10" fill="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="3.5" fill="#00F2FE">
+      <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(480, 24)">
+    <circle cx="0" cy="0" r="12" fill="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="4" fill="#38BDF8">
+      <animate attributeName="r" values="3;5.5;3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Center Quantum Core -->
+  <g transform="translate(600, 24)">
+    <circle cx="0" cy="0" r="18" fill="#818CF8" fill-opacity="0.2">
+      <animate attributeName="r" values="12;22;12" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.3;0.05;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <polygon points="0,-9 9,0 0,9 -9,0" fill="#0F172A" stroke="#00F2FE" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="0" cy="0" r="3" fill="#C084FC"/>
+  </g>
+
+  <g transform="translate(720, 24)">
+    <circle cx="0" cy="0" r="12" fill="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="4" fill="#818CF8">
+      <animate attributeName="r" values="3;5.5;3" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(900, 24)">
+    <circle cx="0" cy="0" r="10" fill="url(#nodeGlow)"/>
+    <circle cx="0" cy="0" r="3.5" fill="#C084FC">
+      <animate attributeName="r" values="2.5;4.5;2.5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Travelling Electron Pulses -->
+  <circle cx="0" cy="24" r="3" fill="#00F2FE">
+    <animate attributeName="cx" from="80" to="1120" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="0" cy="24" r="3" fill="#C084FC">
+    <animate attributeName="cx" from="1120" to="80" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
