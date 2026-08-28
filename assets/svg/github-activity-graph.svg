@@ -1,0 +1,92 @@
+<svg viewBox="0 0 490 195" width="490" height="195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="actBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060911"/>
+      <stop offset="50%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="actBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- Area Fill Gradient -->
+    <linearGradient id="areaFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <!-- Line Gradient -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="40%" stop-color="#38BDF8"/>
+      <stop offset="75%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="490" height="195" rx="12" fill="url(#actBg)" stroke="url(#actBorder)" stroke-width="1.2"/>
+
+  <!-- Title & Status -->
+  <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="800" fill="#00F2FE" letter-spacing="0.8">
+    GitHub Activity &amp; Commit Velocity
+  </text>
+  
+  <g transform="translate(425, 24)">
+    <circle cx="0" cy="0" r="3.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="10" y="4" font-family="-apple-system, monospace" font-size="9" font-weight="700" fill="#10B981">
+      HIGH
+    </text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="24" y1="44" x2="466" y2="44" stroke="#334155" stroke-opacity="0.6" stroke-width="1"/>
+
+  <!-- Chart Grid Lines -->
+  <g stroke="#334155" stroke-opacity="0.3" stroke-width="0.8" stroke-dasharray="3,3">
+    <line x1="40" y1="70" x2="455" y2="70"/>
+    <line x1="40" y1="105" x2="455" y2="105"/>
+    <line x1="40" y1="140" x2="455" y2="140"/>
+  </g>
+
+  <!-- Area Chart Fill -->
+  <path d="M 45 145 Q 90 125 130 90 T 215 110 T 300 70 T 385 85 T 450 60 L 450 150 L 45 150 Z" fill="url(#areaFill)"/>
+
+  <!-- Animated Curve Line -->
+  <path d="M 45 145 Q 90 125 130 90 T 215 110 T 300 70 T 385 85 T 450 60" fill="none" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Data Nodes with Glow -->
+  <circle cx="45" cy="145" r="3" fill="#00F2FE"/>
+  <circle cx="130" cy="90" r="3.5" fill="#38BDF8"/>
+  <circle cx="215" cy="110" r="3.5" fill="#818CF8"/>
+  <circle cx="300" cy="70" r="4" fill="#00F2FE">
+    <animate attributeName="r" values="3;5.5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="385" cy="85" r="3.5" fill="#818CF8"/>
+  <circle cx="450" cy="60" r="4.5" fill="#C084FC">
+    <animate attributeName="r" values="3.5;6;3.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Month Axis Labels -->
+  <g transform="translate(0, 168)" font-family="-apple-system, sans-serif" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">
+    <text x="45">Jan</text>
+    <text x="130">Mar</text>
+    <text x="215">Jun</text>
+    <text x="300">Sep</text>
+    <text x="385">Dec</text>
+    <text x="450">Present</text>
+  </g>
+
+  <!-- Velocity Tag -->
+  <text x="24" y="186" font-family="-apple-system, monospace" font-size="9" font-weight="700" fill="#94A3B8">
+    CADENCE: <tspan fill="#00F2FE">500+ COMMITS</tspan> • REPO VELOCITY: <tspan fill="#34D399">TOP TIER</tspan>
+  </text>
+</svg>

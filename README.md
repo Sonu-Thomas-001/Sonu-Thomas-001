@@ -373,7 +373,7 @@ gantt
 
 <div align="center">
 
-### GitHub Profile Overview
+### GitHub Profile Overview &amp; Telemetry
 
 <p align="center">
   <img src="./assets/svg/github-stats.svg" width="49%" alt="GitHub Overall Stats" />
@@ -382,12 +382,15 @@ gantt
 
 <p align="center">
   <img src="./assets/svg/streak-stats.svg" width="49%" alt="GitHub Streak Stats" />
-  <a href="https://github.com/Sonu-Thomas-001">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Thomas-001&theme=react-dark&bg_color=0F172A&hide_border=false&border_radius=10&color=00F2FE&line=00F2FE&point=7C3AED" width="49%" alt="Activity Graph" />
-  </a>
+  <img src="./assets/svg/github-activity-graph.svg" width="49%" alt="GitHub Activity &amp; Commit Velocity Graph" />
 </p>
 
-### GitHub Achievements & Trophies
+### Automated GitHub Metrics &amp; Deep Activity Analysis
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="Detailed GitHub Metrics and Analytics" />
+</p>
+
+### GitHub Achievements &amp; Trophies
 <p align="center">
   <img src="./assets/svg/github-trophies.svg" width="100%" alt="GitHub Profile Trophies" />
 </p>
